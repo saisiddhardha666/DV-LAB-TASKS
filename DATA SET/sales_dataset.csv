@@ -1,0 +1,1201 @@
+Product_ID,Sale_Date,Sales_Rep,Region,Amount,Sold,Product_Category,Unit_Cost,Price,Type,Discount,Payment_Method,Sales_Channel
+1051,2023-01-01,Bob,North,1505.22,92,Electronics,3348.83,3523.9,New,0.06,UPI,Retail
+1092,2023-01-02,Dani d,East,8674.55,21,Furniture,3427.43,2451.26,Returning,0.16,Credit Card,Online
+1014,2023-01-03,Rami d,South,3029.87,71,Food,4665.53,2492.04,Returning,0.16,UPI,Retail
+1071,2023-01-04,Rami d,West,4392.23,67,Food,4985.05,1810.48,Returning,0.25,Bank Transfer,Retail
+1060,2023-01-05,Bob,East,5155.6,47,Food,3628.77,4227.39,Returning,0.22,Cash,Retail
+1020,2023-01-06,Charlie,North,5328.15,84,Clothing,1507.38,5158.54,New,0.2,Credit Card,Retail
+1082,2023-01-07,Dani d,West,4916.62,83,Clothing,4410.79,5183.02,Returning,0.04,UPI,Online
+1086,2023-01-08,Dani d,South,9436.18,35,Electronics,341.18,1085.08,Returning,0.22,Bank Transfer,Retail
+1074,2023-01-09,Dani d,East,7354.17,68,Furniture,1232.3,4829.88,Returning,0.16,Bank Transfer,Online
+1074,2023-01-10,Dani d,South,6680.54,69,Clothing,4497.19,4095.26,New,0.27,Credit Card,Online
+1087,2023-01-11,Rami d,North,1448.58,1,Food,1355.34,1502.68,Returning,0.28,Cash,Online
+1099,2023-01-12,Rami d,East,9135.22,68,Clothing,1181.19,509.97,New,0.03,Credit Card,Online
+1023,2023-01-13,Charlie,North,9184.51,12,Furniture,776.81,1583.79,Returning,0.25,UPI,Retail
+1002,2023-01-14,Dani d,North,8021.92,60,Clothing,4309.65,5030.31,New,0.02,Bank Transfer,Online
+1021,2023-01-15,Dani d,West,1063.26,27,Food,2550.29,3537.51,Returning,0.12,Cash,Retail
+1052,2023-01-16,Bob,South,1515.52,56,Electronics,3406.98,4007.64,New,0.17,UPI,Retail
+1001,2023-01-17,Rami d,East,3027.01,23,Food,1271.43,1525.77,Returning,0.05,Credit Card,Retail
+1087,2023-01-18,Dani d,North,2182.14,25,Furniture,3814.4,3998.73,New,0.23,Bank Transfer,Retail
+1029,2023-01-19,Charlie,North,4589.52,21,Electronics,3824.03,300.45,New,0.01,Credit Card,Online
+1037,2023-01-20,Charlie,East,9303.61,61,Clothing,1631.73,2157.97,Returning,0.06,Cash,Retail
+1001,2023-01-21,Rami d,North,5248.54,63,Clothing,2112.34,3503.13,New,0.18,Cash,Online
+1063,2023-01-22,Charlie,West,1120.62,52,Clothing,1127.48,931.62,New,0.22,Cash,Retail
+1059,2023-01-23,Charlie,West,3544.71,88,Electronics,4885.15,4553.07,Returning,0.28,Cash,Retail
+1020,2023-01-24,Rami d,West,1401.35,25,Food,3263.45,1407.42,Returning,0.21,Cash,Online
+1032,2023-01-25,Dani d,West,1326.59,55,Electronics,4679.27,3639.7,New,0.2,Credit Card,Retail
+1075,2023-01-26,Dani d,North,3481.48,46,Electronics,1586.59,2317.8,Returning,0.12,Cash,Retail
+1057,2023-01-27,Charlie,East,3480.51,32,Furniture,3931.27,3338.83,Returning,0.01,Cash,Retail
+1021,2023-01-28,Charlie,East,8084.14,55,Electronics,3852.71,724.86,Returning,0.04,Bank Transfer,Retail
+1088,2023-01-29,Dani d,East,9773.51,96,Clothing,3489.11,240.48,New,0.17,Cash,Retail
+1048,2023-01-30,Rami d,East,4340.86,5,Food,4831.63,5016.17,New,0.21,Bank Transfer,Online
+1090,2023-01-31,Charlie,South,4859.98,36,Food,2028.42,1592.52,New,0.13,Bank Transfer,Retail
+1058,2023-02-01,Bob,East,8603.1,49,Food,740.51,4535.27,New,0.22,Bank Transfer,Retail
+1041,2023-02-02,Rami d,South,3413.25,58,Clothing,3391.37,5496.52,New,0.16,Credit Card,Online
+1091,2023-02-03,Charlie,South,2407.44,39,Clothing,3673.62,1281.16,New,0.03,Credit Card,Retail
+1059,2023-02-04,Charlie,West,8677.81,80,Clothing,2917.8,1568.66,New,0.07,UPI,Online
+1079,2023-02-05,Bob,South,1418.51,97,Clothing,1113.41,3696.3,Returning,0.25,UPI,Retail
+1014,2023-02-06,Bob,North,6577.29,85,Clothing,2571.83,5315.15,New,0.22,Bank Transfer,Retail
+1061,2023-02-07,Dani d,South,6057.94,61,Electronics,1629.73,5049.61,New,0.27,Credit Card,Online
+1061,2023-02-08,Rami d,West,4113.28,9,Clothing,2194.59,2840.38,Returning,0.04,Cash,Retail
+1046,2023-02-09,Rami d,South,3836.71,6,Clothing,3261.57,4403.84,Returning,0.3,UPI,Retail
+1061,2023-02-10,Dani d,North,7946.72,35,Clothing,3751.55,876.24,Returning,0.07,Credit Card,Online
+1050,2023-02-11,Rami d,North,1777.82,39,Clothing,1237.9,5379.29,New,0.01,Cash,Online
+1054,2023-02-12,Rami d,North,3131.06,22,Food,2086.09,5309.29,Returning,0.3,Cash,Retail
+1063,2023-02-13,Rami d,West,7592.04,41,Clothing,1418.89,1025.95,New,0.09,Credit Card,Online
+1002,2023-02-14,Rami d,West,5934.89,5,Electronics,1073.29,1751.91,New,0.2,UPI,Retail
+1050,2023-02-15,Rami d,East,2151.89,42,Electronics,3938.6,685.83,New,0.06,Credit Card,Online
+1006,2023-02-16,Bob,West,8939.22,87,Electronics,4555.34,1603.69,Returning,0.18,UPI,Retail
+1020,2023-02-17,Rami d,North,4541.03,81,Furniture,1914.14,4515.36,Returning,0.27,Bank Transfer,Online
+1072,2023-02-18,Bob,North,8450.82,76,Food,3781.27,2173.99,New,0.1,Credit Card,Online
+1038,2023-02-19,Rami d,West,8089.42,87,Clothing,4495.28,622.92,New,0.2,Credit Card,Online
+1017,2023-02-20,Dani d,South,6619.83,80,Furniture,4246.01,1980.91,New,0.06,UPI,Online
+1003,2023-02-21,Charlie,West,5450.33,67,Clothing,995.79,5400.4,Returning,0.19,UPI,Online
+1088,2023-02-22,Bob,West,9815.96,30,Furniture,4785.83,3518.81,New,0.11,Credit Card,Online
+1059,2023-02-23,Rami d,North,2304.69,57,Furniture,1945.71,2376.46,Returning,0.07,Cash,Online
+1013,2023-02-24,Dani d,East,7526.4,86,Electronics,1762.28,1040.98,New,0.1,Cash,Online
+1008,2023-02-25,Charlie,North,2720.72,73,Electronics,405.91,5426.05,Returning,0.06,Cash,Online
+1089,2023-02-26,Bob,East,4044.37,29,Furniture,2482.25,4541.54,New,0.27,Bank Transfer,Retail
+1052,2023-02-27,Charlie,North,3778.29,37,Electronics,634.17,1655.9,Returning,0.13,Bank Transfer,Online
+1001,2023-02-28,Dani d,West,9523.32,87,Furniture,1317.85,524.87,Returning,0.08,UPI,Retail
+1083,2023-03-01,Bob,North,9706.21,13,Food,1653.02,452.95,Returning,0.14,Bank Transfer,Online
+1091,2023-03-02,Charlie,North,2647.14,32,Electronics,4063.25,794.02,Returning,0.1,Cash,Retail
+1059,2023-03-03,Rami d,North,1198.32,46,Electronics,4389.89,3257.11,Returning,0.23,Credit Card,Retail
+1070,2023-03-04,Bob,West,7480.07,23,Electronics,1582.08,5118.88,Returning,0.29,Bank Transfer,Online
+1043,2023-03-05,Charlie,West,4761.91,45,Food,4307.62,2807.58,New,0.14,Bank Transfer,Online
+1007,2023-03-06,Dani d,West,1799.56,17,Furniture,4300.43,4659.76,New,0.26,Cash,Retail
+1046,2023-03-07,Dani d,West,7153.79,85,Clothing,3846.79,2535.49,New,0.17,Bank Transfer,Retail
+1034,2023-03-08,Bob,East,5905.95,66,Electronics,818.81,3940.92,New,0.06,UPI,Online
+1077,2023-03-09,Charlie,East,9824.65,6,Furniture,3482.58,4065.52,Returning,0.21,Credit Card,Online
+1080,2023-03-10,Bob,South,3046.69,18,Food,4730.62,1080.71,New,0.16,Cash,Online
+1035,2023-03-11,Bob,West,4635.8,94,Clothing,3444.45,2082.51,Returning,0.2,UPI,Retail
+1049,2023-03-12,Charlie,East,5882.91,22,Electronics,1724.92,3559.57,Returning,0.27,Cash,Online
+1003,2023-03-13,Charlie,North,8125.3,33,Food,2552.84,528.23,Returning,0.14,UPI,Online
+1001,2023-03-14,Rami d,West,5939.55,30,Food,3264.05,2084.24,New,0.27,Credit Card,Online
+1005,2023-03-15,Charlie,South,6516.1,81,Clothing,2601.8,3011.18,Returning,0.23,Credit Card,Online
+1053,2023-03-16,Dani d,South,3035.32,32,Furniture,687.77,5479.8,New,0.15,UPI,Online
+1003,2023-03-17,Bob,South,8622.27,42,Electronics,1629.11,2688.75,New,0.18,UPI,Retail
+1053,2023-03-18,Bob,North,4857.67,78,Electronics,4031.74,4515.9,New,0.1,UPI,Retail
+1092,2023-03-19,Dani d,East,2268.64,10,Furniture,4320.95,2461.56,New,0.3,UPI,Online
+1062,2023-03-20,Charlie,North,6977.69,36,Furniture,772.77,4410.69,New,0.2,UPI,Online
+1017,2023-03-21,Dani d,West,2944.81,34,Furniture,4766.7,3335.47,Returning,0.02,UPI,Retail
+1089,2023-03-22,Dani d,South,1878.06,73,Clothing,1711.23,4893.29,Returning,0.1,Credit Card,Online
+1043,2023-03-23,Rami d,North,8757.88,28,Clothing,3345.34,2348.54,New,0.19,UPI,Retail
+1033,2023-03-24,Dani d,North,5141.46,11,Electronics,3783.94,3383.03,Returning,0.03,Bank Transfer,Online
+1073,2023-03-25,Bob,East,7743.55,78,Clothing,4078.54,3520.6,New,0.02,Credit Card,Retail
+1061,2023-03-26,Dani d,East,3615.29,39,Food,4734.17,2383.0,Returning,0.14,Cash,Retail
+1099,2023-03-27,Bob,South,8082.73,47,Electronics,1633.31,922.07,Returning,0.11,Credit Card,Online
+1013,2023-03-28,Bob,North,2007.42,19,Clothing,4306.68,650.54,Returning,0.14,Cash,Retail
+1094,2023-03-29,Bob,North,4203.76,15,Furniture,745.27,239.19,Returning,0.09,Cash,Online
+1047,2023-03-30,Charlie,East,9802.56,28,Food,3554.7,4823.41,Returning,0.06,Bank Transfer,Retail
+1014,2023-03-31,Rami d,North,8145.91,24,Furniture,3735.69,1415.14,Returning,0.21,UPI,Online
+1071,2023-04-01,Bob,North,5475.3,72,Electronics,3420.84,1281.56,Returning,0.16,UPI,Online
+1077,2023-04-02,Bob,North,4058.0,9,Furniture,1336.34,4087.79,Returning,0.07,Credit Card,Online
+1086,2023-04-03,Charlie,East,8849.22,47,Clothing,4377.91,1862.09,Returning,0.1,UPI,Retail
+1061,2023-04-04,Bob,South,5903.63,33,Clothing,927.41,2857.34,Returning,0.18,Bank Transfer,Online
+1039,2023-04-05,Dani d,West,7825.83,62,Electronics,362.81,1019.43,Returning,0.03,Credit Card,Online
+1084,2023-04-06,Dani d,South,7786.97,97,Furniture,3615.58,5284.64,Returning,0.05,Credit Card,Online
+1079,2023-04-07,Rami d,West,1161.51,19,Electronics,2429.83,4705.96,Returning,0.03,Credit Card,Retail
+1081,2023-04-08,Bob,North,2136.28,67,Furniture,4260.58,4771.27,New,0.25,UPI,Online
+1052,2023-04-09,Charlie,South,6936.66,74,Food,1978.65,2326.24,Returning,0.23,UPI,Retail
+1023,2023-04-10,Dani d,West,2454.58,40,Clothing,924.57,4228.63,Returning,0.23,UPI,Retail
+1025,2023-04-11,Charlie,East,3299.44,47,Electronics,4198.57,919.74,Returning,0.22,Credit Card,Retail
+1088,2023-04-12,Charlie,East,9519.74,65,Food,2789.66,196.11,Returning,0.2,Credit Card,Online
+1059,2023-04-13,Dani d,South,6041.64,29,Food,1027.06,256.86,Returning,0.15,Cash,Online
+1040,2023-04-14,Charlie,South,7756.57,50,Electronics,3629.88,3288.32,Returning,0.2,Cash,Retail
+1028,2023-04-15,Dani d,North,6021.83,98,Electronics,2604.46,2586.36,New,0.02,UPI,Online
+1014,2023-04-16,Charlie,South,5972.62,13,Food,3061.13,2921.38,New,0.19,Credit Card,Online
+1044,2023-04-17,Dani d,North,1847.37,1,Furniture,2358.4,189.93,New,0.24,UPI,Retail
+1064,2023-04-18,Bob,North,4092.97,34,Food,4160.67,2411.37,Returning,0.16,UPI,Retail
+1088,2023-04-19,Rami d,East,3541.88,93,Electronics,4164.86,3991.66,Returning,0.11,Cash,Online
+1070,2023-04-20,Dani d,East,4516.56,48,Food,3576.01,2518.41,Returning,0.09,Bank Transfer,Retail
+1008,2023-04-21,Dani d,West,8185.1,77,Furniture,616.47,4067.37,New,0.2,UPI,Online
+1087,2023-04-22,Rami d,East,4347.39,48,Clothing,4210.38,1396.65,Returning,0.21,Bank Transfer,Retail
+1000,2023-04-23,Dani d,East,5065.27,49,Clothing,3387.96,4500.31,Returning,0.26,Bank Transfer,Online
+1007,2023-04-24,Dani d,South,4576.43,64,Food,3515.42,3298.11,New,0.11,Credit Card,Online
+1087,2023-04-25,Charlie,East,1840.67,61,Furniture,1878.62,1277.58,New,0.23,Credit Card,Retail
+1062,2023-04-26,Rami d,West,4969.65,29,Clothing,4408.47,1416.45,Returning,0.17,UPI,Online
+1010,2023-04-27,Bob,South,2760.48,39,Food,3654.32,3509.96,Returning,0.27,Cash,Online
+1080,2023-04-28,Dani d,West,2680.51,88,Food,651.69,4590.18,Returning,0.16,Cash,Retail
+1007,2023-04-29,Rami d,East,1846.32,26,Furniture,2098.11,2373.61,Returning,0.16,UPI,Online
+1034,2023-04-30,Charlie,West,4210.04,17,Electronics,4443.26,1531.91,New,0.18,UPI,Online
+1034,2023-05-01,Bob,South,7817.34,71,Food,331.26,4788.51,Returning,0.23,Cash,Online
+1032,2023-05-02,Rami d,North,3487.98,13,Electronics,4810.94,3730.59,Returning,0.29,Bank Transfer,Retail
+1004,2023-05-03,Bob,West,3811.14,69,Electronics,3427.9,2547.26,New,0.03,UPI,Retail
+1040,2023-05-04,Bob,West,6784.07,26,Clothing,3193.74,2760.27,Returning,0.03,Bank Transfer,Retail
+1027,2023-05-05,Bob,South,2762.57,49,Electronics,1425.74,1242.77,Returning,0.28,UPI,Retail
+1006,2023-05-06,Dani d,South,9072.62,67,Furniture,1319.08,3503.39,New,0.16,UPI,Retail
+1072,2023-05-07,Dani d,West,5681.71,7,Clothing,4716.09,2069.27,New,0.19,Bank Transfer,Online
+1071,2023-05-08,Charlie,East,5028.43,58,Clothing,1561.54,5476.7,Returning,0.15,Bank Transfer,Online
+1011,2023-05-09,Charlie,West,6020.38,49,Clothing,3899.98,2718.98,New,0.04,Cash,Online
+1033,2023-05-10,Rami d,South,2494.31,53,Food,2026.3,2749.49,New,0.23,UPI,Retail
+1032,2023-05-11,Charlie,North,6521.26,65,Food,782.34,3177.31,Returning,0.23,Credit Card,Online
+1047,2023-05-12,Bob,North,4267.91,62,Electronics,152.5,5054.64,New,0.1,Credit Card,Retail
+1022,2023-05-13,Bob,East,9074.68,17,Clothing,2766.86,4434.38,Returning,0.1,UPI,Online
+1061,2023-05-14,Dani d,West,2519.69,43,Clothing,4881.32,2563.55,Returning,0.25,UPI,Retail
+1087,2023-05-15,Bob,North,5563.46,25,Furniture,1908.77,3995.04,Returning,0.03,UPI,Online
+1036,2023-05-16,Rami d,West,6383.01,3,Electronics,1850.24,3286.36,Returning,0.27,Bank Transfer,Online
+1098,2023-05-17,Bob,South,1300.45,79,Furniture,1786.05,2784.16,New,0.08,Credit Card,Retail
+1043,2023-05-18,Bob,North,4273.24,29,Electronics,2650.66,1178.89,Returning,0.18,Credit Card,Online
+1085,2023-05-19,Rami d,East,7593.72,32,Electronics,2259.26,2632.06,Returning,0.28,Credit Card,Online
+1090,2023-05-20,Charlie,South,8383.4,26,Food,4411.58,1465.13,Returning,0.21,UPI,Retail
+1034,2023-05-21,Charlie,East,3818.46,16,Food,2577.05,5044.41,Returning,0.13,Bank Transfer,Online
+1064,2023-05-22,Rami d,South,8187.34,25,Furniture,2588.01,1944.43,New,0.21,UPI,Online
+1098,2023-05-23,Dani d,North,9709.8,54,Electronics,778.02,5244.61,New,0.11,Cash,Retail
+1046,2023-05-24,Bob,East,8711.87,28,Clothing,4915.42,3001.85,New,0.09,Cash,Retail
+1077,2023-05-25,Rami d,East,2058.8,73,Food,1324.87,3528.76,Returning,0.3,Credit Card,Retail
+1002,2023-05-26,Bob,South,7657.57,56,Clothing,459.48,3054.73,New,0.23,UPI,Retail
+1000,2023-05-27,Dani d,East,3877.0,65,Furniture,3349.42,842.19,New,0.2,Cash,Retail
+1004,2023-05-28,Bob,South,9895.74,93,Food,3017.3,2160.64,Returning,0.11,Cash,Online
+1089,2023-05-29,Rami d,South,5368.23,86,Food,2134.21,680.43,New,0.02,UPI,Retail
+1013,2023-05-30,Bob,South,2101.91,80,Electronics,2168.74,3482.8,Returning,0.02,Bank Transfer,Retail
+1026,2023-05-31,Charlie,South,7526.67,41,Furniture,3946.81,2540.78,New,0.17,UPI,Online
+1008,2023-06-01,Dani d,North,3907.1,51,Electronics,1058.99,4312.22,New,0.23,UPI,Online
+1078,2023-06-02,Dani d,South,9973.7,71,Food,4119.24,1329.52,New,0.17,Bank Transfer,Online
+1014,2023-06-03,Dani d,West,9818.04,78,Furniture,3278.86,1030.43,New,0.25,Credit Card,Online
+1089,2023-06-04,Rami d,East,6905.21,29,Food,2152.95,2323.88,Returning,0.02,Credit Card,Online
+1041,2023-06-05,Dani d,West,2168.44,83,Furniture,2344.34,5107.23,Returning,0.12,Credit Card,Retail
+1076,2023-06-06,Charlie,North,7181.75,19,Food,1357.57,3950.76,New,0.08,Bank Transfer,Online
+1050,2023-06-07,Rami d,West,1837.27,66,Clothing,3785.36,2391.24,Returning,0.14,Cash,Retail
+1062,2023-06-08,Charlie,East,1264.28,41,Clothing,2613.09,2917.41,New,0.03,Bank Transfer,Online
+1095,2023-06-09,Bob,West,8406.63,45,Electronics,1672.19,600.54,New,0.29,UPI,Retail
+1051,2023-06-10,Bob,North,2887.78,15,Clothing,3020.65,5417.48,New,0.07,Bank Transfer,Online
+1095,2023-06-11,Bob,South,4411.24,3,Food,4979.1,3715.28,New,0.28,Cash,Retail
+1003,2023-06-12,Bob,West,9761.12,11,Food,2232.79,1676.91,New,0.13,Cash,Retail
+1093,2023-06-13,Charlie,North,4031.56,53,Clothing,4611.39,3284.07,New,0.3,UPI,Retail
+1022,2023-06-14,Rami d,North,3668.41,46,Electronics,1790.58,735.73,Returning,0.17,Credit Card,Retail
+1014,2023-06-15,Rami d,East,9263.87,30,Clothing,368.19,5317.23,Returning,0.28,Cash,Retail
+1042,2023-06-16,Dani d,East,1996.74,57,Furniture,1100.79,1085.1,New,0.01,Cash,Retail
+1028,2023-06-17,Charlie,West,7836.24,18,Furniture,2151.61,3616.96,Returning,0.23,Cash,Retail
+1035,2023-06-18,Bob,South,9892.59,51,Furniture,1176.21,1463.18,New,0.27,UPI,Retail
+1012,2023-06-19,Charlie,North,9111.66,48,Clothing,101.11,3988.95,Returning,0.05,Cash,Retail
+1031,2023-06-20,Dani d,West,6865.01,66,Clothing,4583.51,4305.99,Returning,0.04,Credit Card,Retail
+1070,2023-06-21,Dani d,North,3826.55,96,Clothing,4235.01,3752.8,Returning,0.13,UPI,Online
+1058,2023-06-22,Charlie,North,3288.9,8,Furniture,3737.23,3437.57,New,0.28,Credit Card,Retail
+1085,2023-06-23,Charlie,South,8373.3,22,Electronics,922.29,4924.71,Returning,0.17,Cash,Retail
+1027,2023-06-24,Charlie,South,8918.4,6,Food,689.78,570.65,New,0.16,Cash,Online
+1065,2023-06-25,Rami d,West,5728.91,76,Clothing,431.26,1920.39,New,0.05,Credit Card,Retail
+1041,2023-06-26,Bob,South,3199.06,57,Electronics,3647.74,1478.34,New,0.01,UPI,Retail
+1044,2023-06-27,Charlie,South,2016.49,36,Food,4651.16,5435.87,Returning,0.24,UPI,Online
+1061,2023-06-28,Charlie,West,1784.62,79,Food,2209.63,2233.24,Returning,0.04,Credit Card,Online
+1056,2023-06-29,Charlie,South,7471.7,92,Food,683.79,4069.48,Returning,0.19,Cash,Retail
+1005,2023-06-30,Dani d,East,4781.07,57,Electronics,2610.72,3813.28,New,0.28,Bank Transfer,Online
+1027,2023-07-01,Dani d,North,9148.24,49,Electronics,1809.28,1284.63,New,0.07,Credit Card,Retail
+1027,2023-07-02,Rami d,North,7657.04,45,Furniture,1936.64,1428.64,Returning,0.2,Credit Card,Retail
+1043,2023-07-03,Bob,North,2721.34,82,Electronics,3144.52,1654.87,New,0.03,Credit Card,Retail
+1083,2023-07-04,Rami d,North,6524.0,66,Electronics,3621.72,2349.53,Returning,0.19,Cash,Online
+1029,2023-07-05,Bob,West,4919.55,77,Electronics,641.96,1403.64,Returning,0.06,UPI,Retail
+1061,2023-07-06,Dani d,North,6195.25,45,Food,274.39,255.14,Returning,0.22,Cash,Retail
+1074,2023-07-07,Dani d,North,7642.62,79,Clothing,4972.22,4854.75,Returning,0.1,Credit Card,Online
+1091,2023-07-08,Dani d,North,8255.76,20,Furniture,1240.37,5316.01,New,0.14,Cash,Retail
+1088,2023-07-09,Rami d,North,8593.64,64,Clothing,363.77,1977.4,Returning,0.18,Cash,Retail
+1061,2023-07-10,Charlie,East,3285.77,93,Clothing,1030.39,1961.01,Returning,0.06,Credit Card,Retail
+1096,2023-07-11,Charlie,North,1280.04,93,Electronics,290.89,187.94,Returning,0.23,Cash,Retail
+1000,2023-07-12,Dani d,East,7653.65,67,Furniture,2019.87,3789.34,Returning,0.1,Bank Transfer,Retail
+1026,2023-07-13,Charlie,West,1957.09,83,Clothing,4031.77,4566.1,Returning,0.2,Cash,Retail
+1061,2023-07-14,Charlie,South,3834.28,3,Clothing,1772.1,934.35,Returning,0.06,Cash,Online
+1076,2023-07-15,Rami d,North,1034.35,54,Furniture,2276.5,1004.21,Returning,0.21,UPI,Retail
+1002,2023-07-16,Bob,South,7135.03,78,Electronics,3410.38,4376.95,New,0.05,UPI,Retail
+1069,2023-07-17,Dani d,South,2504.19,64,Clothing,2593.58,3447.16,New,0.13,Credit Card,Online
+1071,2023-07-18,Dani d,West,6897.54,40,Food,4321.08,390.0,New,0.08,Credit Card,Retail
+1026,2023-07-19,Rami d,South,9925.68,59,Clothing,4343.57,3480.63,New,0.23,UPI,Retail
+1008,2023-07-20,Rami d,East,1654.04,55,Food,148.56,1802.71,Returning,0.09,Bank Transfer,Online
+1061,2023-07-21,Charlie,South,1693.7,62,Electronics,3912.43,2122.68,New,0.27,Cash,Online
+1036,2023-07-22,Dani d,South,4063.42,4,Clothing,2357.59,4268.06,New,0.27,Bank Transfer,Online
+1096,2023-07-23,Bob,South,8797.48,60,Furniture,4945.32,4488.5,New,0.07,Bank Transfer,Online
+1050,2023-07-24,Rami d,North,2939.77,75,Furniture,2467.84,2291.91,Returning,0.19,UPI,Online
+1043,2023-07-25,Bob,North,4243.4,95,Clothing,4935.79,5217.27,New,0.04,Credit Card,Online
+1023,2023-07-26,Bob,East,1616.55,96,Electronics,3797.39,2324.58,New,0.12,Cash,Online
+1078,2023-07-27,Dani d,East,7868.4,91,Electronics,1318.16,4279.32,Returning,0.22,Credit Card,Retail
+1058,2023-07-28,Dani d,North,4674.76,30,Furniture,2738.14,2738.74,New,0.2,Bank Transfer,Retail
+1031,2023-07-29,Rami d,East,7833.24,2,Clothing,4961.46,4951.8,Returning,0.19,Bank Transfer,Retail
+1095,2023-07-30,Dani d,North,9132.47,62,Electronics,4301.9,5006.52,New,0.09,Credit Card,Online
+1087,2023-07-31,Dani d,West,3094.87,49,Furniture,577.1,617.68,Returning,0.12,Credit Card,Retail
+1051,2023-08-01,Dani d,South,8266.56,9,Food,3561.22,5160.24,New,0.04,UPI,Online
+1061,2023-08-02,Bob,South,1531.85,92,Clothing,1793.34,4566.61,New,0.22,Credit Card,Retail
+1057,2023-08-03,Rami d,East,9089.63,31,Food,134.21,4383.51,New,0.16,Credit Card,Retail
+1051,2023-08-04,Charlie,North,6856.92,98,Food,2077.06,1224.88,Returning,0.22,UPI,Retail
+1011,2023-08-05,Bob,North,8868.04,61,Electronics,1250.3,4457.39,New,0.08,Credit Card,Retail
+1038,2023-08-06,Dani d,East,1001.7,79,Electronics,4112.46,4698.21,Returning,0.1,Bank Transfer,Online
+1001,2023-08-07,Bob,North,2521.73,48,Electronics,1752.92,1696.95,Returning,0.11,Credit Card,Online
+1002,2023-08-08,Dani d,West,4507.83,25,Clothing,4154.87,5244.59,Returning,0.02,Cash,Retail
+1055,2023-08-09,Dani d,South,4415.53,36,Food,102.93,416.75,Returning,0.11,Bank Transfer,Online
+1080,2023-08-10,Bob,East,3040.57,8,Clothing,1608.31,952.01,New,0.24,UPI,Online
+1058,2023-08-11,Rami d,East,4434.51,73,Electronics,1281.71,3026.06,New,0.27,Bank Transfer,Retail
+1001,2023-08-12,Dani d,North,2159.64,58,Food,1244.48,3230.49,New,0.16,UPI,Online
+1001,2023-08-13,Rami d,East,4714.85,45,Clothing,434.11,3601.55,Returning,0.14,Cash,Online
+1091,2023-08-14,Charlie,West,8221.19,62,Clothing,1016.91,240.78,New,0.02,Cash,Online
+1053,2023-08-15,Dani d,North,5311.63,39,Furniture,2822.19,5287.96,Returning,0.26,Bank Transfer,Online
+1086,2023-08-16,Rami d,North,1162.0,96,Clothing,1527.67,388.55,Returning,0.01,Credit Card,Retail
+1095,2023-08-17,Rami d,North,4793.0,58,Electronics,2145.23,915.38,Returning,0.28,Bank Transfer,Retail
+1096,2023-08-18,Charlie,North,1244.58,81,Clothing,1946.65,224.98,New,0.15,Bank Transfer,Online
+1000,2023-08-19,Rami d,West,9696.19,99,Food,4391.93,3182.69,New,0.11,Cash,Retail
+1018,2023-08-20,Rami d,North,2147.09,83,Clothing,4535.97,5137.63,Returning,0.28,UPI,Retail
+1001,2023-08-21,Charlie,East,7369.19,64,Furniture,2515.49,3712.82,New,0.02,Bank Transfer,Retail
+1052,2023-08-22,Dani d,West,9754.99,44,Food,1717.76,4551.22,New,0.18,Credit Card,Online
+1043,2023-08-23,Rami d,South,8434.35,29,Food,623.32,221.05,Returning,0.17,Cash,Online
+1089,2023-08-24,Rami d,South,7293.84,59,Furniture,4771.67,3049.78,Returning,0.07,Bank Transfer,Retail
+1031,2023-08-25,Rami d,East,8555.15,71,Electronics,395.11,2608.66,New,0.13,Bank Transfer,Retail
+1069,2023-08-26,Bob,East,9836.19,92,Food,1558.49,2819.48,Returning,0.2,Credit Card,Online
+1031,2023-08-27,Charlie,West,6592.1,9,Electronics,1560.52,536.34,Returning,0.22,Bank Transfer,Retail
+1067,2023-08-28,Bob,South,6032.66,92,Food,1669.97,3811.73,New,0.01,Bank Transfer,Online
+1054,2023-08-29,Charlie,South,6654.14,6,Food,905.01,2842.23,New,0.28,Bank Transfer,Retail
+1074,2023-08-30,Dani d,South,5794.08,29,Electronics,3937.49,4243.55,Returning,0.06,Bank Transfer,Online
+1055,2023-08-31,Dani d,South,6715.8,58,Food,700.24,2746.3,New,0.08,Credit Card,Online
+1016,2023-09-01,Rami d,South,5048.58,17,Electronics,3211.04,949.19,Returning,0.09,Bank Transfer,Online
+1037,2023-09-02,Charlie,North,2965.99,16,Furniture,706.85,3618.17,Returning,0.02,Bank Transfer,Online
+1023,2023-09-03,Dani d,East,2082.23,87,Electronics,445.62,1072.27,New,0.05,Bank Transfer,Retail
+1068,2023-09-04,Charlie,North,1615.07,95,Furniture,4556.2,4817.31,Returning,0.3,Cash,Online
+1097,2023-09-05,Dani d,South,3369.84,3,Food,1031.63,3430.17,Returning,0.1,Credit Card,Retail
+1069,2023-09-06,Bob,West,1415.11,21,Electronics,4124.13,991.04,Returning,0.04,Cash,Online
+1085,2023-09-07,Dani d,West,6104.54,64,Food,2768.69,5298.51,New,0.04,Cash,Online
+1010,2023-09-08,Bob,South,3554.46,90,Electronics,481.5,2923.26,New,0.22,Credit Card,Retail
+1015,2023-09-09,Dani d,South,8420.81,36,Furniture,4781.7,540.01,New,0.26,Cash,Retail
+1096,2023-09-10,Rami d,West,1668.17,86,Furniture,1310.11,3503.56,Returning,0.08,Cash,Retail
+1072,2023-09-11,Bob,North,3037.16,62,Electronics,4312.26,1504.61,Returning,0.02,Cash,Online
+1058,2023-09-12,Dani d,North,7572.22,42,Furniture,927.17,4449.76,New,0.07,Credit Card,Online
+1069,2023-09-13,Rami d,South,6389.27,76,Food,4284.32,4525.35,New,0.03,Bank Transfer,Retail
+1079,2023-09-14,Bob,North,1580.42,42,Food,164.82,5387.37,New,0.04,UPI,Online
+1092,2023-09-15,Rami d,West,8895.16,61,Clothing,2607.72,2835.0,Returning,0.14,UPI,Retail
+1002,2023-09-16,Charlie,North,8895.36,13,Furniture,3870.27,2584.02,New,0.08,Credit Card,Online
+1019,2023-09-17,Charlie,South,3973.67,11,Food,4680.5,4181.09,Returning,0.16,UPI,Online
+1058,2023-09-18,Bob,West,4063.65,54,Electronics,4555.09,858.72,New,0.08,Credit Card,Online
+1035,2023-09-19,Dani d,North,9901.26,16,Furniture,4116.16,3076.0,Returning,0.28,Credit Card,Retail
+1018,2023-09-20,Bob,East,6635.59,8,Food,4452.14,3072.42,Returning,0.27,UPI,Online
+1089,2023-09-21,Rami d,West,5781.85,59,Furniture,1076.18,628.68,New,0.17,Cash,Retail
+1066,2023-09-22,Dani d,West,8543.37,57,Electronics,1492.5,2386.21,Returning,0.11,Bank Transfer,Retail
+1018,2023-09-23,Charlie,East,3567.61,40,Food,1515.95,4715.07,New,0.12,UPI,Online
+1019,2023-09-24,Dani d,East,4862.64,59,Clothing,1947.56,4730.42,Returning,0.13,UPI,Retail
+1095,2023-09-25,Charlie,West,3409.99,2,Clothing,2027.27,680.92,Returning,0.22,UPI,Retail
+1070,2023-09-26,Dani d,East,8102.45,94,Furniture,2768.32,635.36,New,0.14,UPI,Online
+1051,2023-09-27,Dani d,South,6160.14,94,Electronics,883.41,1555.42,Returning,0.26,Credit Card,Retail
+1032,2023-09-28,Dani d,South,6929.43,76,Food,3487.11,4830.0,New,0.28,Credit Card,Retail
+1039,2023-09-29,Rami d,South,3270.77,10,Electronics,921.08,839.63,New,0.11,Bank Transfer,Online
+1038,2023-09-30,Rami d,West,2982.03,44,Food,1620.51,4001.98,New,0.17,Bank Transfer,Online
+1081,2023-10-01,Bob,East,5395.37,11,Furniture,2566.39,691.24,Returning,0.04,UPI,Online
+1000,2023-10-02,Bob,East,7638.09,79,Food,4002.56,3483.79,Returning,0.07,UPI,Retail
+1010,2023-10-03,Charlie,North,5727.16,80,Electronics,3723.4,2054.96,Returning,0.13,UPI,Retail
+1091,2023-10-04,Rami d,North,1293.81,81,Electronics,3263.12,4370.69,New,0.07,Bank Transfer,Online
+1056,2023-10-05,Charlie,East,8816.96,90,Furniture,863.29,1400.24,New,0.26,UPI,Retail
+1088,2023-10-06,Bob,East,1582.18,2,Electronics,2780.52,3569.73,Returning,0.06,Cash,Online
+1049,2023-10-07,Charlie,East,9602.42,50,Food,528.49,1410.9,Returning,0.14,Bank Transfer,Online
+1022,2023-10-08,Bob,West,1226.28,12,Furniture,1949.08,3968.08,New,0.19,Cash,Online
+1030,2023-10-09,Rami d,East,7250.05,90,Food,2126.23,4824.18,Returning,0.21,UPI,Retail
+1093,2023-10-10,Dani d,North,1739.86,23,Electronics,295.08,828.39,New,0.12,Credit Card,Retail
+1041,2023-10-11,Rami d,West,9196.09,18,Furniture,1442.54,4786.29,Returning,0.26,Cash,Online
+1098,2023-10-12,Charlie,East,5179.9,62,Food,4782.68,3325.63,New,0.17,Bank Transfer,Online
+1006,2023-10-13,Charlie,North,2237.71,96,Electronics,4772.8,830.04,Returning,0.14,Cash,Retail
+1015,2023-10-14,Rami d,West,4067.34,62,Electronics,1826.4,2437.35,Returning,0.03,Bank Transfer,Online
+1089,2023-10-15,Rami d,East,2483.42,38,Clothing,311.19,1010.6,New,0.14,UPI,Retail
+1059,2023-10-16,Bob,East,2535.24,67,Electronics,977.57,3896.86,New,0.25,Cash,Online
+1001,2023-10-17,Charlie,East,9532.97,38,Food,2021.87,4209.94,New,0.19,Credit Card,Online
+1000,2023-10-18,Charlie,West,5007.22,67,Furniture,4744.12,716.01,Returning,0.25,Cash,Retail
+1047,2023-10-19,Rami d,North,8099.22,94,Clothing,791.88,2857.85,New,0.15,Credit Card,Retail
+1011,2023-10-20,Dani d,North,6756.45,61,Electronics,3841.23,4508.24,New,0.04,Bank Transfer,Retail
+1068,2023-10-21,Charlie,South,7087.84,1,Electronics,632.54,5158.47,Returning,0.01,UPI,Retail
+1036,2023-10-22,Dani d,East,2185.24,94,Electronics,4908.16,2897.32,New,0.1,UPI,Retail
+1031,2023-10-23,Rami d,South,3107.66,45,Food,1969.92,5233.99,New,0.21,Credit Card,Online
+1008,2023-10-24,Rami d,South,8080.75,96,Clothing,3898.65,3015.94,New,0.24,Bank Transfer,Online
+1098,2023-10-25,Bob,North,9736.9,28,Food,1778.7,2258.92,Returning,0.1,UPI,Retail
+1018,2023-10-26,Charlie,West,3364.08,21,Clothing,3175.58,4687.89,Returning,0.15,Bank Transfer,Retail
+1047,2023-10-27,Dani d,West,3444.12,13,Furniture,1040.88,2787.46,Returning,0.13,Credit Card,Online
+1079,2023-10-28,Bob,North,5256.07,27,Food,815.5,2674.68,New,0.13,Credit Card,Online
+1002,2023-10-29,Charlie,West,9854.56,7,Food,4696.51,2773.17,Returning,0.08,Cash,Retail
+1019,2023-10-30,Bob,South,3420.63,22,Furniture,4596.47,4680.3,New,0.05,UPI,Retail
+1023,2023-10-31,Rami d,East,4662.75,74,Clothing,4448.6,4600.89,New,0.07,UPI,Online
+1053,2023-11-01,Charlie,North,9023.32,53,Electronics,3164.62,2308.83,New,0.03,Cash,Retail
+1032,2023-11-02,Bob,East,1026.29,79,Furniture,4060.51,1933.15,Returning,0.07,Credit Card,Online
+1023,2023-11-03,Bob,West,1357.89,79,Electronics,438.28,2781.81,Returning,0.01,Credit Card,Online
+1074,2023-11-04,Dani d,East,6436.65,4,Electronics,1740.47,3214.33,New,0.19,Credit Card,Retail
+1071,2023-11-05,Bob,West,9166.42,96,Furniture,1637.15,1425.1,New,0.1,Credit Card,Online
+1035,2023-11-06,Charlie,West,3149.71,23,Clothing,3214.66,4397.66,Returning,0.29,Bank Transfer,Online
+1037,2023-11-07,Charlie,South,5226.78,70,Electronics,1844.19,2752.68,Returning,0.07,UPI,Online
+1083,2023-11-08,Dani d,West,5054.19,88,Furniture,827.68,1937.14,Returning,0.11,UPI,Retail
+1098,2023-11-09,Charlie,South,5256.74,84,Food,3022.69,721.49,New,0.11,Credit Card,Online
+1088,2023-11-10,Rami d,South,6602.68,84,Food,4090.48,1427.82,Returning,0.01,Credit Card,Retail
+1098,2023-11-11,Charlie,South,5227.69,76,Food,1972.41,5228.65,Returning,0.25,Credit Card,Online
+1024,2023-11-12,Charlie,North,5027.21,33,Furniture,748.12,1782.28,Returning,0.02,UPI,Online
+1092,2023-11-13,Bob,North,5268.6,28,Food,1063.77,1053.4,New,0.28,UPI,Online
+1017,2023-11-14,Bob,West,6317.81,8,Electronics,1263.67,2614.6,Returning,0.27,Credit Card,Online
+1081,2023-11-15,Charlie,South,5833.07,1,Food,1569.5,1792.92,New,0.17,Bank Transfer,Online
+1065,2023-11-16,Dani d,North,8687.22,37,Food,3249.7,338.1,New,0.17,Cash,Retail
+1053,2023-11-17,Bob,South,1445.47,63,Electronics,3044.63,1878.83,New,0.2,Cash,Retail
+1034,2023-11-18,Dani d,East,8499.85,22,Food,3510.79,3060.98,Returning,0.12,Cash,Online
+1079,2023-11-19,Charlie,East,8595.32,70,Electronics,1876.26,3101.66,Returning,0.2,UPI,Retail
+1060,2023-11-20,Charlie,East,3564.17,21,Food,4137.59,2057.59,Returning,0.02,UPI,Retail
+1040,2023-11-21,Rami d,West,5165.67,96,Electronics,1100.03,2543.07,New,0.03,Cash,Online
+1099,2023-11-22,Bob,South,4946.85,35,Food,2398.3,5315.52,Returning,0.14,Cash,Retail
+1032,2023-11-23,Charlie,East,2966.59,79,Electronics,4024.6,2168.81,New,0.17,Bank Transfer,Retail
+1067,2023-11-24,Rami d,North,4571.17,5,Furniture,982.78,1531.51,Returning,0.27,UPI,Retail
+1032,2023-11-25,Bob,East,1399.49,60,Electronics,638.33,1452.55,Returning,0.04,UPI,Retail
+1013,2023-11-26,Charlie,East,3500.4,46,Food,4430.05,2599.04,Returning,0.25,Cash,Online
+1020,2023-11-27,Charlie,East,8350.14,50,Food,1780.36,4213.43,Returning,0.07,Bank Transfer,Retail
+1047,2023-11-28,Bob,West,3561.06,48,Clothing,3450.96,1252.04,New,0.12,Bank Transfer,Online
+1019,2023-11-29,Bob,North,8363.86,6,Electronics,224.21,3944.73,New,0.1,Cash,Online
+1007,2023-11-30,Bob,South,5784.4,89,Furniture,3481.23,263.15,New,0.13,Cash,Retail
+1006,2023-12-01,Charlie,North,8918.76,56,Electronics,1648.9,2391.29,New,0.05,UPI,Online
+1066,2023-12-02,Charlie,South,6173.02,59,Electronics,373.13,4300.88,Returning,0.16,Cash,Retail
+1016,2023-12-03,Rami d,West,1267.01,29,Furniture,3088.08,1962.22,New,0.24,Credit Card,Online
+1032,2023-12-04,Dani d,West,7078.78,71,Electronics,1279.94,3165.99,New,0.14,Bank Transfer,Retail
+1047,2023-12-05,Bob,West,1403.68,77,Furniture,1995.36,1246.64,New,0.15,Cash,Retail
+1075,2023-12-06,Charlie,West,5055.37,18,Furniture,494.85,4119.68,Returning,0.26,Credit Card,Online
+1058,2023-12-07,Charlie,South,9364.84,2,Electronics,821.1,429.69,New,0.21,Bank Transfer,Retail
+1085,2023-12-08,Bob,East,2486.84,8,Electronics,1560.09,4711.1,New,0.15,Credit Card,Retail
+1021,2023-12-09,Dani d,South,4508.85,75,Food,539.82,1210.35,Returning,0.08,Credit Card,Retail
+1029,2023-12-10,Bob,North,7568.74,97,Food,4563.05,4828.03,Returning,0.27,Cash,Retail
+1037,2023-12-11,Dani d,West,8940.33,54,Clothing,129.63,2036.03,New,0.18,Bank Transfer,Online
+1050,2023-12-12,Charlie,West,7038.49,38,Clothing,2470.92,4016.36,New,0.07,Credit Card,Online
+1053,2023-12-13,Dani d,North,3323.56,48,Electronics,703.91,1857.86,Returning,0.09,UPI,Online
+1007,2023-12-14,Rami d,South,7071.47,27,Furniture,1607.63,4996.63,New,0.24,Bank Transfer,Retail
+1026,2023-12-15,Charlie,East,3670.55,20,Clothing,4637.69,827.51,Returning,0.02,UPI,Online
+1026,2023-12-16,Rami d,East,7465.86,12,Electronics,892.3,1105.08,New,0.3,Cash,Retail
+1097,2023-12-17,Bob,North,9586.3,43,Clothing,4832.58,2787.71,New,0.05,UPI,Retail
+1020,2023-12-18,Bob,East,7492.54,61,Furniture,1108.39,588.37,New,0.24,Bank Transfer,Retail
+1029,2023-12-19,Bob,South,8765.92,31,Electronics,3733.67,1198.49,New,0.12,Credit Card,Online
+1096,2023-12-20,Dani d,South,1018.93,91,Furniture,2778.72,5199.15,New,0.15,Credit Card,Online
+1027,2023-12-21,Charlie,North,7458.15,96,Electronics,4433.95,5374.22,Returning,0.27,Bank Transfer,Online
+1063,2023-12-22,Bob,South,8466.29,61,Clothing,2814.57,2162.99,Returning,0.13,Credit Card,Online
+1096,2023-12-23,Bob,West,1365.03,74,Food,2719.34,5089.58,New,0.17,UPI,Retail
+1068,2023-12-24,Charlie,North,8844.38,67,Clothing,1057.74,3064.81,New,0.02,Credit Card,Online
+1060,2023-12-25,Bob,South,3310.25,91,Clothing,914.52,1593.12,New,0.01,Credit Card,Online
+1047,2023-12-26,Rami d,North,6987.63,35,Food,4590.8,3907.83,Returning,0.08,UPI,Online
+1018,2023-12-27,Charlie,East,8203.19,95,Food,1706.41,3675.12,Returning,0.21,UPI,Online
+1003,2023-12-28,Charlie,South,6963.98,15,Electronics,1923.2,5441.82,Returning,0.05,UPI,Retail
+1034,2023-12-29,Charlie,West,1830.56,16,Electronics,3823.14,1568.0,Returning,0.04,Cash,Online
+1063,2023-12-30,Rami d,South,6366.89,13,Furniture,1760.24,3745.52,Returning,0.13,UPI,Online
+1048,2023-12-31,Charlie,North,5946.25,35,Furniture,4765.11,428.33,Returning,0.2,UPI,Online
+1016,2024-01-01,Rami d,North,9102.89,75,Clothing,3715.85,758.01,Returning,0.22,Cash,Retail
+1043,2024-01-02,Charlie,South,4638.16,59,Food,3027.4,170.96,Returning,0.06,Credit Card,Online
+1091,2024-01-03,Dani d,West,3889.73,21,Furniture,4416.39,5497.11,New,0.03,UPI,Online
+1029,2024-01-04,Bob,West,7748.66,54,Clothing,343.07,4442.16,Returning,0.28,Bank Transfer,Online
+1092,2024-01-05,Dani d,West,4714.08,75,Food,1359.61,4358.97,Returning,0.09,UPI,Retail
+1045,2024-01-06,Bob,North,6814.87,30,Electronics,2378.68,2877.03,Returning,0.26,UPI,Retail
+1005,2024-01-07,Rami d,South,6818.05,48,Clothing,1212.19,1755.36,Returning,0.26,Cash,Online
+1098,2024-01-08,Dani d,East,8992.35,35,Electronics,3745.14,959.26,New,0.23,Bank Transfer,Online
+1036,2024-01-09,Charlie,North,6388.23,86,Furniture,4604.12,1673.01,Returning,0.06,Credit Card,Retail
+1023,2024-01-10,Bob,West,5519.38,38,Furniture,2176.47,2161.45,New,0.25,Credit Card,Retail
+1092,2024-01-11,Bob,South,2249.84,31,Food,1776.45,4196.26,New,0.23,Bank Transfer,Retail
+1045,2024-01-12,Dani d,West,2041.64,78,Clothing,4811.6,3037.19,New,0.18,UPI,Retail
+1052,2024-01-13,Rami d,East,2388.89,24,Electronics,2279.78,564.54,Returning,0.11,Cash,Retail
+1094,2024-01-14,Dani d,West,2546.64,49,Food,2496.34,246.46,Returning,0.09,Bank Transfer,Online
+1098,2024-01-15,Rami d,West,6740.89,96,Furniture,1823.08,697.48,Returning,0.05,Bank Transfer,Online
+1059,2024-01-16,Rami d,East,7668.83,32,Furniture,4556.79,2346.17,New,0.16,Credit Card,Online
+1096,2024-01-17,Bob,South,5769.92,55,Clothing,2887.88,5142.58,New,0.18,Cash,Online
+1062,2024-01-18,Dani d,North,8461.16,79,Electronics,3834.66,3560.1,New,0.11,Bank Transfer,Retail
+1084,2024-01-19,Dani d,South,9921.37,58,Clothing,4077.85,4439.77,New,0.15,Cash,Retail
+1031,2024-01-20,Rami d,East,8380.11,99,Electronics,1775.06,2645.1,Returning,0.12,UPI,Retail
+1086,2024-01-21,Dani d,West,7253.94,3,Electronics,2225.1,2084.91,Returning,0.2,Credit Card,Retail
+1032,2024-01-22,Charlie,South,5792.43,80,Clothing,4257.51,729.94,Returning,0.27,UPI,Retail
+1066,2024-01-23,Charlie,North,5039.68,69,Food,1879.95,4836.24,New,0.06,Cash,Online
+1017,2024-01-24,Dani d,East,1759.53,85,Clothing,3990.28,4339.91,New,0.12,UPI,Online
+1024,2024-01-25,Dani d,South,4594.32,10,Clothing,4710.86,1049.43,Returning,0.05,Credit Card,Online
+1094,2024-01-26,Rami d,North,9191.21,83,Furniture,3153.73,2890.59,Returning,0.19,Cash,Online
+1053,2024-01-27,Charlie,East,8272.2,25,Furniture,3733.97,2757.46,New,0.22,Bank Transfer,Online
+1057,2024-01-28,Charlie,North,2944.46,68,Clothing,4044.98,3494.24,Returning,0.28,UPI,Retail
+1066,2024-01-29,Bob,East,5199.47,61,Clothing,4240.69,5212.1,Returning,0.09,Credit Card,Retail
+1045,2024-01-30,Rami d,West,8350.51,29,Furniture,2035.76,3251.78,New,0.29,Bank Transfer,Retail
+1023,2024-01-31,Bob,South,1606.46,19,Electronics,351.19,3040.16,New,0.03,Credit Card,Retail
+1031,2024-02-01,Charlie,North,4486.53,43,Clothing,2069.19,419.23,New,0.18,Cash,Retail
+1046,2024-02-02,Rami d,East,8666.57,66,Food,3401.41,486.55,Returning,0.03,Cash,Online
+1085,2024-02-03,Dani d,North,4635.08,74,Food,2306.72,1152.31,New,0.27,UPI,Online
+1022,2024-02-04,Rami d,North,1698.53,61,Food,3769.92,323.72,Returning,0.16,Credit Card,Online
+1065,2024-02-05,Dani d,South,5882.81,43,Clothing,1849.21,4126.94,Returning,0.2,Credit Card,Retail
+1026,2024-02-06,Dani d,West,8755.68,25,Electronics,3210.25,4019.82,New,0.25,Credit Card,Retail
+1001,2024-02-07,Rami d,North,6312.57,20,Electronics,1013.46,877.9,Returning,0.05,Cash,Retail
+1089,2024-02-08,Dani d,East,3036.51,48,Furniture,3771.91,4623.02,New,0.02,UPI,Retail
+1016,2024-02-09,Bob,East,4458.16,83,Clothing,2773.91,978.11,New,0.26,Credit Card,Online
+1032,2024-02-10,Charlie,West,5051.11,87,Electronics,1099.92,1761.29,Returning,0.1,Credit Card,Retail
+1008,2024-02-11,Dani d,East,6213.4,24,Clothing,1530.36,1482.03,Returning,0.05,Bank Transfer,Online
+1042,2024-02-12,Bob,West,7834.16,11,Furniture,3768.18,2141.84,New,0.15,Credit Card,Retail
+1047,2024-02-13,Dani d,East,1889.86,98,Furniture,2464.75,1512.45,New,0.18,UPI,Online
+1038,2024-02-14,Charlie,South,9006.87,55,Furniture,1158.55,2765.89,New,0.02,Bank Transfer,Retail
+1092,2024-02-15,Bob,North,1110.79,28,Food,4839.63,2329.63,New,0.09,Bank Transfer,Retail
+1041,2024-02-16,Charlie,South,4330.47,69,Clothing,3604.11,5428.15,New,0.02,Bank Transfer,Online
+1025,2024-02-17,Charlie,North,1246.78,63,Furniture,4789.96,449.21,New,0.13,Cash,Online
+1098,2024-02-18,Bob,North,4536.77,59,Clothing,2192.81,910.67,Returning,0.27,Bank Transfer,Retail
+1049,2024-02-19,Bob,North,5732.31,5,Food,2427.99,432.62,Returning,0.29,Credit Card,Online
+1024,2024-02-20,Bob,South,5605.13,51,Food,4499.98,3498.25,Returning,0.19,Cash,Retail
+1023,2024-02-21,Rami d,North,2490.66,21,Furniture,2672.74,441.62,Returning,0.06,Cash,Retail
+1012,2024-02-22,Bob,South,6811.66,12,Furniture,3565.67,4624.95,New,0.27,Cash,Online
+1059,2024-02-23,Bob,West,1403.01,50,Electronics,1335.65,2888.87,Returning,0.16,Cash,Retail
+1006,2024-02-24,Bob,East,7857.16,4,Clothing,2288.96,2969.49,Returning,0.05,Cash,Retail
+1056,2024-02-25,Bob,East,9519.8,42,Furniture,704.9,3154.53,New,0.28,Cash,Online
+1035,2024-02-26,Dani d,North,4057.92,84,Electronics,1109.3,1063.85,Returning,0.23,Cash,Retail
+1044,2024-02-27,Rami d,South,5655.15,38,Clothing,104.62,1207.64,New,0.22,Bank Transfer,Retail
+1019,2024-02-28,Charlie,East,4410.19,25,Furniture,292.4,1855.67,New,0.22,UPI,Retail
+1064,2024-02-29,Bob,South,1060.39,14,Electronics,4888.69,3325.21,New,0.07,Credit Card,Retail
+1007,2024-03-01,Dani d,South,4472.87,75,Electronics,1287.53,1274.13,New,0.07,Credit Card,Online
+1015,2024-03-02,Dani d,North,8125.48,32,Clothing,3350.22,772.37,New,0.21,Bank Transfer,Online
+1013,2024-03-03,Dani d,East,6363.9,11,Electronics,4211.59,5340.13,Returning,0.07,Bank Transfer,Online
+1075,2024-03-04,Charlie,North,1911.34,61,Clothing,2798.24,267.6,Returning,0.14,Cash,Retail
+1086,2024-03-05,Bob,North,8624.26,18,Clothing,850.41,4444.43,Returning,0.24,UPI,Online
+1014,2024-03-06,Rami d,East,5779.77,27,Clothing,3667.77,4365.99,New,0.24,Cash,Online
+1091,2024-03-07,Rami d,East,8575.51,55,Food,3041.23,1740.1,Returning,0.14,Bank Transfer,Online
+1097,2024-03-08,Dani d,West,6221.99,54,Electronics,3683.13,875.6,Returning,0.24,Cash,Retail
+1065,2024-03-09,Charlie,West,6037.2,82,Clothing,3871.76,929.11,Returning,0.25,Credit Card,Online
+1031,2024-03-10,Charlie,South,1947.33,87,Furniture,4879.51,3881.26,Returning,0.2,Credit Card,Online
+1086,2024-03-11,Charlie,East,2506.24,75,Food,2910.46,3589.02,New,0.08,Cash,Retail
+1062,2024-03-12,Rami d,West,9748.23,21,Food,1774.04,4337.69,Returning,0.09,UPI,Retail
+1085,2024-03-13,Dani d,South,3056.38,44,Electronics,3277.48,5165.52,New,0.1,Cash,Retail
+1050,2024-03-14,Bob,South,9797.07,5,Clothing,435.36,3851.81,New,0.04,Cash,Retail
+1024,2024-03-15,Rami d,South,5787.21,87,Electronics,4497.25,983.81,Returning,0.09,UPI,Retail
+1057,2024-03-16,Dani d,West,2222.1,41,Food,684.97,1452.42,New,0.07,UPI,Retail
+1062,2024-03-17,Dani d,East,1893.72,59,Clothing,1706.43,4655.74,New,0.14,UPI,Online
+1061,2024-03-18,Bob,North,2879.78,89,Furniture,4097.15,1269.79,New,0.27,Credit Card,Online
+1021,2024-03-19,Bob,South,9330.74,54,Clothing,3026.83,537.99,New,0.04,Cash,Retail
+1057,2024-03-20,Bob,West,4727.35,74,Food,2028.81,3912.55,New,0.22,Bank Transfer,Retail
+1057,2024-03-21,Charlie,West,4558.91,22,Furniture,2419.83,2303.52,New,0.21,UPI,Online
+1085,2024-03-22,Bob,North,3818.86,83,Clothing,4287.28,5072.21,New,0.04,UPI,Retail
+1048,2024-03-23,Dani d,North,2323.56,65,Furniture,1766.02,3628.86,Returning,0.28,Cash,Retail
+1051,2024-03-24,Bob,West,5390.66,64,Furniture,4361.28,633.74,Returning,0.17,Bank Transfer,Online
+1041,2024-03-25,Dani d,East,2170.43,71,Food,531.86,5221.03,New,0.12,Cash,Retail
+1069,2024-03-26,Rami d,North,8519.32,4,Furniture,3906.31,1533.28,New,0.23,Cash,Retail
+1014,2024-03-27,Charlie,West,4333.57,65,Electronics,4252.98,1954.09,Returning,0.08,UPI,Online
+1053,2024-03-28,Rami d,North,4373.23,15,Food,990.91,2302.09,Returning,0.21,UPI,Online
+1059,2024-03-29,Rami d,East,5266.06,76,Electronics,2208.7,424.05,Returning,0.02,Credit Card,Online
+1096,2024-03-30,Dani d,South,4997.15,22,Furniture,910.95,2806.36,Returning,0.25,Bank Transfer,Online
+1007,2024-03-31,Rami d,North,9953.72,86,Electronics,3562.36,809.75,New,0.14,Bank Transfer,Online
+1052,2024-04-01,Dani d,East,5908.43,47,Clothing,2723.2,2295.19,New,0.19,UPI,Retail
+1059,2024-04-02,Bob,West,1793.82,81,Furniture,3213.08,2026.3,Returning,0.07,UPI,Retail
+1004,2024-04-03,Bob,North,6461.9,93,Clothing,1062.79,4284.69,Returning,0.21,UPI,Retail
+1067,2024-04-04,Dani d,North,2364.26,46,Electronics,1137.55,4446.96,Returning,0.23,Bank Transfer,Retail
+1005,2024-04-05,Bob,West,1278.44,14,Clothing,303.34,970.76,Returning,0.15,Credit Card,Retail
+1095,2024-04-06,Charlie,South,9736.68,50,Furniture,1678.13,2111.05,New,0.19,Bank Transfer,Online
+1093,2024-04-07,Rami d,West,7961.85,20,Clothing,2842.75,2147.44,Returning,0.14,UPI,Retail
+1046,2024-04-08,Charlie,North,9820.98,50,Electronics,4303.88,960.05,Returning,0.27,UPI,Retail
+1098,2024-04-09,Rami d,West,5300.91,33,Electronics,3367.94,4421.73,Returning,0.15,Credit Card,Retail
+1054,2024-04-10,Bob,East,5790.32,59,Electronics,2233.44,3933.67,New,0.25,Cash,Retail
+1039,2024-04-11,Charlie,West,2515.03,43,Furniture,4770.29,1168.54,New,0.24,Cash,Retail
+1051,2024-04-12,Bob,North,3222.17,79,Electronics,3624.3,2111.96,New,0.13,Bank Transfer,Online
+1015,2024-04-13,Rami d,West,8546.94,12,Furniture,4657.81,716.06,Returning,0.08,Cash,Retail
+1012,2024-04-14,Dani d,South,4205.67,40,Clothing,2685.18,3510.91,Returning,0.13,Cash,Retail
+1029,2024-04-15,Dani d,West,8441.33,20,Electronics,1368.63,799.34,Returning,0.25,Bank Transfer,Retail
+1018,2024-04-16,Charlie,South,7381.12,94,Clothing,358.85,5424.75,New,0.08,UPI,Retail
+1016,2024-04-17,Bob,East,2594.54,38,Food,3657.82,4326.65,New,0.16,Cash,Retail
+1062,2024-04-18,Bob,South,5567.02,3,Clothing,694.38,2237.78,Returning,0.24,UPI,Retail
+1018,2024-04-19,Charlie,West,7096.49,28,Food,1583.6,3245.32,Returning,0.11,Bank Transfer,Online
+1091,2024-04-20,Dani d,North,3115.33,56,Clothing,2709.11,5025.68,New,0.2,UPI,Retail
+1057,2024-04-21,Rami d,South,8476.2,90,Furniture,2865.64,3114.43,Returning,0.08,UPI,Online
+1054,2024-04-22,Charlie,East,5903.45,94,Clothing,3042.86,1083.57,Returning,0.04,Bank Transfer,Online
+1089,2024-04-23,Rami d,South,2487.18,13,Furniture,914.65,2176.06,Returning,0.24,UPI,Retail
+1089,2024-04-24,Dani d,South,6246.86,77,Furniture,1960.71,4660.83,New,0.04,Cash,Retail
+1061,2024-04-25,Bob,South,9997.42,66,Electronics,3124.25,3596.54,Returning,0.09,Cash,Retail
+1022,2024-04-26,Dani d,East,2354.69,37,Furniture,4852.11,3631.38,Returning,0.26,Cash,Online
+1008,2024-04-27,Charlie,West,8350.81,49,Food,3665.39,4787.49,Returning,0.11,Cash,Retail
+1011,2024-04-28,Bob,South,2865.78,66,Electronics,4620.76,4932.76,Returning,0.29,UPI,Retail
+1000,2024-04-29,Charlie,South,8041.49,36,Electronics,3834.84,5070.89,New,0.29,Cash,Retail
+1057,2024-04-30,Charlie,North,7611.2,54,Clothing,2999.41,657.44,New,0.09,UPI,Online
+1000,2024-05-01,Dani d,East,3704.4,26,Furniture,1040.91,3061.07,New,0.02,Credit Card,Online
+1033,2024-05-02,Charlie,South,3932.41,75,Furniture,3366.76,4111.73,Returning,0.21,UPI,Retail
+1095,2024-05-03,Dani d,East,8132.69,72,Food,3154.56,4199.56,New,0.14,Cash,Online
+1047,2024-05-04,Bob,South,5153.01,40,Clothing,3052.1,3395.93,Returning,0.04,Credit Card,Retail
+1088,2024-05-05,Dani d,West,7577.36,43,Clothing,2499.95,1042.31,New,0.22,Bank Transfer,Online
+1000,2024-05-06,Bob,West,2331.86,22,Electronics,2690.42,4416.2,Returning,0.02,UPI,Retail
+1015,2024-05-07,Dani d,South,8673.02,20,Electronics,1738.77,4002.6,New,0.26,Cash,Online
+1060,2024-05-08,Rami d,West,7397.96,8,Electronics,2644.63,610.83,New,0.05,Cash,Retail
+1063,2024-05-09,Rami d,South,9162.49,29,Food,1068.02,2631.38,New,0.05,Cash,Retail
+1062,2024-05-10,Charlie,West,2191.35,40,Food,4045.35,1080.78,Returning,0.06,Bank Transfer,Online
+1068,2024-05-11,Dani d,North,6337.13,90,Electronics,1010.31,1955.5,Returning,0.29,Credit Card,Online
+1021,2024-05-12,Dani d,North,6392.09,30,Clothing,516.33,246.73,Returning,0.21,Credit Card,Online
+1092,2024-05-13,Bob,North,4181.15,81,Food,2237.61,2291.76,New,0.24,Cash,Online
+1066,2024-05-14,Charlie,East,5126.2,84,Clothing,3325.71,3091.84,Returning,0.13,UPI,Online
+1075,2024-05-15,Dani d,East,1341.83,55,Clothing,2244.81,3464.77,Returning,0.11,Cash,Retail
+1025,2024-05-16,Charlie,North,7712.74,16,Furniture,1456.1,3699.67,Returning,0.08,Cash,Retail
+1015,2024-05-17,Rami d,East,5943.9,46,Electronics,2835.04,4624.16,Returning,0.15,UPI,Online
+1050,2024-05-18,Dani d,West,1519.67,62,Furniture,1800.31,1302.73,Returning,0.17,Cash,Retail
+1085,2024-05-19,Dani d,South,7126.8,7,Electronics,4671.05,794.58,Returning,0.19,Bank Transfer,Retail
+1056,2024-05-20,Charlie,South,5201.04,80,Electronics,4620.96,4705.72,New,0.08,Cash,Online
+1028,2024-05-21,Dani d,South,1310.15,45,Clothing,2561.62,987.88,New,0.29,Bank Transfer,Retail
+1077,2024-05-22,Charlie,North,9726.47,59,Electronics,1706.63,5364.97,Returning,0.06,Cash,Retail
+1091,2024-05-23,Dani d,East,9542.01,56,Clothing,3711.95,4657.58,New,0.29,Credit Card,Online
+1068,2024-05-24,Bob,West,5616.12,48,Clothing,279.89,2829.69,New,0.01,UPI,Online
+1046,2024-05-25,Charlie,West,1843.05,27,Electronics,2426.37,5400.6,Returning,0.15,Credit Card,Retail
+1093,2024-05-26,Dani d,North,7791.59,53,Clothing,1747.98,670.97,Returning,0.11,Cash,Online
+1061,2024-05-27,Rami d,West,5427.38,87,Clothing,4610.63,1771.4,New,0.14,Cash,Retail
+1068,2024-05-28,Dani d,West,3722.03,88,Clothing,158.81,3564.5,Returning,0.18,Bank Transfer,Online
+1075,2024-05-29,Rami d,West,5422.76,73,Food,2808.79,2022.54,New,0.14,Cash,Online
+1015,2024-05-30,Rami d,West,5702.0,35,Clothing,3729.25,5116.79,New,0.13,Cash,Online
+1089,2024-05-31,Bob,East,6064.41,51,Food,2476.59,501.1,New,0.22,Cash,Online
+1089,2024-06-01,Charlie,West,4971.01,84,Food,518.47,3089.35,Returning,0.21,Credit Card,Retail
+1047,2024-06-02,Dani d,South,6451.8,37,Clothing,4865.06,3311.13,New,0.25,Bank Transfer,Online
+1084,2024-06-03,Bob,North,9268.61,81,Clothing,2638.25,3642.1,Returning,0.08,Credit Card,Online
+1038,2024-06-04,Dani d,East,4260.41,95,Food,3109.51,1517.81,Returning,0.19,Bank Transfer,Retail
+1099,2024-06-05,Rami d,West,7531.45,57,Food,1259.39,2100.43,Returning,0.18,Credit Card,Retail
+1032,2024-06-06,Charlie,East,9050.07,8,Clothing,2469.14,4663.69,Returning,0.12,Cash,Retail
+1093,2024-06-07,Dani d,West,5103.81,79,Clothing,2202.83,1192.94,Returning,0.15,Credit Card,Retail
+1022,2024-06-08,Dani d,South,4991.1,95,Electronics,466.99,4573.74,New,0.1,Credit Card,Online
+1009,2024-06-09,Rami d,North,6419.05,94,Food,620.19,3160.21,Returning,0.05,Bank Transfer,Retail
+1068,2024-06-10,Dani d,West,6322.66,20,Food,4203.62,4227.7,Returning,0.07,Bank Transfer,Online
+1099,2024-06-11,Dani d,West,8259.3,53,Electronics,1275.12,3967.8,Returning,0.04,Credit Card,Retail
+1033,2024-06-12,Rami d,West,5288.35,12,Food,1055.3,1260.19,Returning,0.21,Bank Transfer,Online
+1051,2024-06-13,Bob,West,9965.11,49,Furniture,2574.07,3193.15,Returning,0.2,Bank Transfer,Retail
+1094,2024-06-14,Rami d,North,1535.24,17,Food,3866.86,4792.32,New,0.29,Bank Transfer,Online
+1009,2024-06-15,Bob,North,1028.51,64,Electronics,403.54,2461.82,Returning,0.22,UPI,Online
+1018,2024-06-16,Charlie,South,6761.78,42,Furniture,2926.36,5321.26,Returning,0.03,Bank Transfer,Retail
+1057,2024-06-17,Bob,North,3685.91,94,Clothing,684.13,2569.35,New,0.27,UPI,Online
+1095,2024-06-18,Bob,West,3163.44,29,Electronics,278.66,913.9,Returning,0.26,UPI,Online
+1000,2024-06-19,Charlie,South,3807.09,19,Electronics,358.45,2233.48,New,0.14,Bank Transfer,Online
+1068,2024-06-20,Bob,South,3304.43,11,Clothing,4187.4,5241.61,New,0.18,Credit Card,Online
+1003,2024-06-21,Rami d,South,1277.11,98,Electronics,678.07,1860.51,New,0.29,Bank Transfer,Retail
+1015,2024-06-22,Bob,West,9743.8,50,Food,321.24,4794.33,New,0.16,Cash,Online
+1023,2024-06-23,Charlie,East,2986.71,71,Clothing,2245.71,4864.69,Returning,0.27,Credit Card,Online
+1079,2024-06-24,Rami d,West,7606.27,58,Electronics,4235.57,2023.5,Returning,0.03,UPI,Retail
+1001,2024-06-25,Charlie,North,7863.37,34,Clothing,1385.8,595.43,New,0.07,UPI,Retail
+1091,2024-06-26,Charlie,North,9363.32,20,Clothing,2166.39,4026.38,New,0.14,Credit Card,Retail
+1031,2024-06-27,Dani d,West,1274.95,50,Clothing,295.62,1816.59,Returning,0.18,Credit Card,Online
+1090,2024-06-28,Dani d,West,8848.44,88,Furniture,2300.48,4338.64,New,0.25,Bank Transfer,Online
+1083,2024-06-29,Charlie,South,5745.04,10,Electronics,2930.3,2518.2,New,0.3,UPI,Retail
+1023,2024-06-30,Charlie,West,6692.9,32,Furniture,2897.44,2746.18,New,0.12,Cash,Online
+1011,2024-07-01,Charlie,South,6800.23,52,Electronics,1728.89,4311.82,Returning,0.02,Bank Transfer,Retail
+1049,2024-07-02,Dani d,North,8378.18,15,Food,1646.11,2195.64,New,0.24,Credit Card,Online
+1034,2024-07-03,Dani d,South,4000.67,84,Food,622.46,2520.73,Returning,0.19,UPI,Retail
+1032,2024-07-04,Bob,West,7597.46,3,Food,1897.31,2162.62,Returning,0.07,Credit Card,Online
+1032,2024-07-05,Bob,North,5757.2,37,Electronics,587.52,2115.27,Returning,0.15,Credit Card,Retail
+1060,2024-07-06,Charlie,East,8140.55,40,Clothing,3856.32,2963.81,New,0.23,Credit Card,Online
+1050,2024-07-07,Rami d,South,9914.91,72,Clothing,4834.74,4477.08,New,0.23,Bank Transfer,Retail
+1042,2024-07-08,Rami d,North,2805.86,40,Furniture,4853.36,2085.46,Returning,0.15,Cash,Online
+1011,2024-07-09,Dani d,South,9951.84,56,Furniture,4338.85,2954.76,Returning,0.1,Cash,Online
+1066,2024-07-10,Dani d,North,1808.31,23,Food,3043.88,3738.39,Returning,0.29,UPI,Online
+1064,2024-07-11,Dani d,North,1020.86,11,Furniture,3534.24,1591.5,New,0.2,Credit Card,Retail
+1032,2024-07-12,Charlie,South,1397.46,64,Electronics,1497.51,1634.75,New,0.13,Cash,Online
+1039,2024-07-13,Rami d,East,4076.04,8,Electronics,3190.78,5143.76,Returning,0.09,Credit Card,Online
+1073,2024-07-14,Bob,North,6696.16,93,Furniture,2332.68,4020.91,Returning,0.22,UPI,Online
+1042,2024-07-15,Charlie,North,1621.27,94,Furniture,2461.88,3237.95,New,0.08,Credit Card,Retail
+1043,2024-07-16,Bob,North,1050.99,56,Furniture,3813.11,3615.3,Returning,0.06,Cash,Online
+1028,2024-07-17,Bob,East,9433.82,60,Furniture,1481.4,306.75,New,0.16,Credit Card,Retail
+1012,2024-07-18,Charlie,East,8397.34,10,Food,1658.39,3456.85,New,0.09,Cash,Online
+1011,2024-07-19,Bob,West,8282.65,39,Food,4630.74,2875.87,Returning,0.19,UPI,Retail
+1094,2024-07-20,Rami d,South,8959.82,28,Furniture,375.5,3069.76,Returning,0.04,Credit Card,Retail
+1045,2024-07-21,Bob,East,7300.31,49,Electronics,2479.61,2072.92,New,0.2,Cash,Online
+1001,2024-07-22,Rami d,South,1939.64,36,Food,4572.72,585.89,New,0.09,UPI,Retail
+1034,2024-07-23,Rami d,West,4591.9,13,Electronics,3090.78,1184.36,New,0.01,Credit Card,Retail
+1086,2024-07-24,Rami d,South,7508.35,96,Clothing,2777.39,5236.48,New,0.05,UPI,Online
+1080,2024-07-25,Dani d,East,3523.01,36,Electronics,1323.75,2336.54,New,0.28,Cash,Retail
+1089,2024-07-26,Bob,South,7186.66,26,Furniture,1782.05,2646.75,Returning,0.26,Credit Card,Retail
+1007,2024-07-27,Charlie,East,1220.49,86,Clothing,4275.04,432.0,New,0.08,Credit Card,Retail
+1092,2024-07-28,Charlie,South,3755.24,4,Food,2840.17,350.98,New,0.24,Credit Card,Retail
+1025,2024-07-29,Bob,East,5942.17,95,Food,2622.24,3986.92,New,0.19,UPI,Online
+1073,2024-07-30,Dani d,East,6688.81,82,Clothing,587.94,3028.81,Returning,0.29,UPI,Retail
+1089,2024-07-31,Dani d,South,6193.37,64,Electronics,178.54,2871.58,Returning,0.12,Cash,Retail
+1033,2024-08-01,Rami d,West,7279.81,38,Food,4822.06,1450.72,New,0.21,Bank Transfer,Online
+1006,2024-08-02,Bob,North,1054.8,88,Furniture,1947.23,4134.42,New,0.03,Credit Card,Online
+1067,2024-08-03,Bob,West,1908.47,87,Clothing,3055.74,1050.07,Returning,0.12,Credit Card,Retail
+1057,2024-08-04,Charlie,South,8820.5,22,Furniture,490.6,1166.15,Returning,0.29,Cash,Online
+1074,2024-08-05,Bob,West,7135.74,2,Clothing,3447.26,2614.81,Returning,0.17,Credit Card,Online
+1028,2024-08-06,Dani d,East,2016.38,31,Food,4669.58,1681.6,Returning,0.09,UPI,Online
+1035,2024-08-07,Bob,North,8578.67,11,Electronics,2920.76,1473.93,New,0.04,UPI,Online
+1088,2024-08-08,Charlie,South,3180.08,92,Clothing,717.97,3602.02,Returning,0.21,Credit Card,Online
+1020,2024-08-09,Rami d,South,5304.34,46,Clothing,2950.44,3632.7,New,0.2,Credit Card,Online
+1035,2024-08-10,Charlie,South,2306.77,96,Furniture,3855.1,4561.17,New,0.12,UPI,Online
+1009,2024-08-11,Charlie,North,7390.99,62,Food,2091.44,2384.74,Returning,0.29,Credit Card,Online
+1072,2024-08-12,Rami d,East,7001.69,69,Furniture,4411.2,541.01,Returning,0.02,UPI,Online
+1023,2024-08-13,Charlie,South,2900.01,64,Food,3278.55,1614.12,Returning,0.1,Bank Transfer,Retail
+1063,2024-08-14,Charlie,West,8770.61,10,Furniture,4506.32,5393.03,Returning,0.28,Bank Transfer,Retail
+1098,2024-08-15,Bob,South,4611.75,40,Clothing,3155.18,3339.98,New,0.1,Credit Card,Retail
+1048,2024-08-16,Bob,South,3632.64,24,Furniture,743.31,3947.09,New,0.08,Credit Card,Retail
+1098,2024-08-17,Rami d,South,2370.97,99,Electronics,1617.49,189.36,New,0.16,Credit Card,Retail
+1035,2024-08-18,Bob,South,3395.51,44,Food,1088.8,2922.4,Returning,0.25,UPI,Online
+1081,2024-08-19,Bob,East,1198.24,60,Food,4553.25,350.78,New,0.04,Bank Transfer,Online
+1095,2024-08-20,Charlie,West,6249.32,62,Clothing,3825.96,3195.38,Returning,0.28,Bank Transfer,Retail
+1023,2024-08-21,Dani d,East,8580.08,87,Food,3414.35,5076.12,New,0.24,Cash,Retail
+1022,2024-08-22,Bob,West,5940.82,17,Electronics,1574.73,5331.04,Returning,0.06,Cash,Online
+1061,2024-08-23,Dani d,South,2973.47,65,Furniture,1001.82,3041.96,New,0.22,Credit Card,Retail
+1095,2024-08-24,Bob,North,1303.02,95,Clothing,3806.61,2601.4,New,0.12,UPI,Online
+1036,2024-08-25,Bob,East,2931.65,95,Electronics,2423.37,5205.84,Returning,0.13,Credit Card,Retail
+1011,2024-08-26,Rami d,North,4745.09,57,Food,1206.37,3753.81,New,0.24,Bank Transfer,Online
+1054,2024-08-27,Rami d,East,7836.5,55,Food,3121.45,497.21,New,0.29,Credit Card,Retail
+1012,2024-08-28,Rami d,South,2690.59,53,Electronics,297.64,2641.63,Returning,0.05,Credit Card,Online
+1022,2024-08-29,Dani d,East,7478.12,56,Furniture,1698.23,1435.31,Returning,0.13,Bank Transfer,Retail
+1088,2024-08-30,Charlie,South,8802.4,98,Furniture,2395.93,2663.45,Returning,0.15,Bank Transfer,Retail
+1098,2024-08-31,Bob,East,5085.52,9,Clothing,825.0,2586.74,Returning,0.12,Bank Transfer,Online
+1029,2024-09-01,Bob,South,8392.89,22,Food,4924.81,3264.47,Returning,0.12,Bank Transfer,Online
+1016,2024-09-02,Bob,South,5991.92,13,Electronics,1124.58,2058.72,New,0.03,Cash,Retail
+1061,2024-09-03,Dani d,West,6733.82,89,Furniture,738.73,1028.85,Returning,0.21,UPI,Retail
+1083,2024-09-04,Rami d,South,5736.51,48,Clothing,1097.32,2844.9,New,0.14,UPI,Online
+1088,2024-09-05,Charlie,West,5168.55,18,Food,3868.4,4591.59,New,0.07,Bank Transfer,Online
+1085,2024-09-06,Dani d,South,3111.88,76,Food,2184.98,3702.47,Returning,0.25,UPI,Online
+1012,2024-09-07,Rami d,North,3728.75,40,Clothing,2870.54,1960.27,New,0.24,UPI,Retail
+1058,2024-09-08,Dani d,South,3609.73,17,Clothing,202.94,5155.05,New,0.15,UPI,Retail
+1018,2024-09-09,Charlie,North,6069.6,15,Furniture,268.71,5030.31,Returning,0.1,UPI,Online
+1048,2024-09-10,Rami d,North,2079.58,15,Electronics,2284.55,1270.01,New,0.2,Bank Transfer,Retail
+1099,2024-09-11,Dani d,South,9251.13,79,Food,4101.61,360.88,Returning,0.09,Credit Card,Retail
+1011,2024-09-12,Charlie,North,7485.9,63,Electronics,4437.67,4116.0,Returning,0.08,Credit Card,Online
+1060,2024-09-13,Bob,West,4613.01,39,Food,524.86,4577.71,Returning,0.22,Credit Card,Retail
+1018,2024-09-14,Charlie,East,2427.62,13,Food,2737.98,5328.08,New,0.02,Cash,Online
+1075,2024-09-15,Bob,South,8937.93,81,Electronics,4574.83,4910.62,New,0.04,UPI,Online
+1008,2024-09-16,Dani d,North,8414.0,32,Clothing,2001.07,3362.86,New,0.01,Bank Transfer,Retail
+1070,2024-09-17,Rami d,South,7495.49,9,Furniture,4164.87,2985.78,New,0.05,Bank Transfer,Retail
+1027,2024-09-18,Rami d,West,3443.92,40,Food,755.11,298.95,Returning,0.03,Cash,Online
+1077,2024-09-19,Dani d,South,4622.02,20,Clothing,4683.43,1469.61,New,0.3,Bank Transfer,Online
+1094,2024-09-20,Rami d,South,1924.73,90,Food,3781.97,2608.94,Returning,0.09,Credit Card,Online
+1051,2024-09-21,Rami d,North,2701.36,91,Furniture,4712.54,3512.5,New,0.05,Cash,Retail
+1082,2024-09-22,Bob,West,8047.15,85,Food,3415.42,3131.3,New,0.08,Bank Transfer,Online
+1015,2024-09-23,Dani d,East,7435.35,82,Furniture,1880.68,4123.1,New,0.28,Cash,Online
+1068,2024-09-24,Charlie,East,6341.37,77,Furniture,4697.09,1646.75,New,0.16,Cash,Online
+1098,2024-09-25,Bob,North,9061.54,80,Food,1450.28,3172.5,New,0.12,Bank Transfer,Online
+1011,2024-09-26,Dani d,South,6249.4,73,Food,1727.65,621.56,Returning,0.26,Credit Card,Retail
+1024,2024-09-27,Bob,North,5202.71,63,Furniture,3533.96,2363.11,New,0.12,Bank Transfer,Retail
+1051,2024-09-28,Charlie,North,4063.34,76,Clothing,3850.05,4163.36,New,0.11,UPI,Online
+1084,2024-09-29,Charlie,North,9464.04,44,Electronics,4654.08,3859.69,New,0.07,UPI,Retail
+1099,2024-09-30,Dani d,South,1744.44,38,Furniture,1103.53,5449.94,New,0.12,Bank Transfer,Retail
+1052,2024-10-01,Charlie,West,9377.99,83,Food,4010.19,1636.72,Returning,0.1,Credit Card,Retail
+1022,2024-10-02,Bob,North,8440.43,60,Food,3718.88,2815.31,New,0.21,UPI,Online
+1015,2024-10-03,Charlie,South,2169.37,71,Clothing,412.59,1912.99,Returning,0.09,UPI,Retail
+1056,2024-10-04,Bob,West,6084.86,99,Electronics,1997.39,2507.23,New,0.18,Bank Transfer,Retail
+1038,2024-10-05,Bob,North,8798.93,48,Furniture,1485.55,4734.68,Returning,0.03,Bank Transfer,Online
+1052,2024-10-06,Charlie,East,6146.28,18,Furniture,1592.0,3810.52,Returning,0.07,Bank Transfer,Online
+1041,2024-10-07,Dani d,West,9164.8,16,Electronics,4916.44,4871.06,Returning,0.13,Cash,Retail
+1057,2024-10-08,Rami d,North,9486.85,55,Furniture,3249.61,1238.78,Returning,0.28,Cash,Retail
+1038,2024-10-09,Charlie,West,4801.46,39,Electronics,3616.61,4822.48,Returning,0.12,Cash,Online
+1013,2024-10-10,Bob,West,4395.82,68,Food,4885.43,469.73,New,0.2,Bank Transfer,Online
+1094,2024-10-11,Bob,West,9426.89,59,Electronics,1948.29,4904.01,Returning,0.08,Credit Card,Online
+1004,2024-10-12,Charlie,West,7076.26,89,Furniture,4029.02,1910.54,New,0.05,UPI,Online
+1034,2024-10-13,Dani d,West,2044.2,96,Electronics,2229.2,1833.04,Returning,0.03,Cash,Retail
+1086,2024-10-14,Dani d,West,1380.63,62,Clothing,4360.71,2889.67,Returning,0.1,Credit Card,Online
+1092,2024-10-15,Bob,North,6081.66,13,Food,985.22,5182.69,New,0.06,Bank Transfer,Retail
+1074,2024-10-16,Bob,East,9371.54,81,Food,4743.66,405.63,Returning,0.06,Cash,Retail
+1017,2024-10-17,Dani d,South,8598.24,6,Electronics,1171.98,2034.44,Returning,0.23,Bank Transfer,Retail
+1075,2024-10-18,Rami d,West,7082.63,83,Furniture,1698.48,4732.66,Returning,0.01,Credit Card,Online
+1008,2024-10-19,Charlie,South,2252.04,77,Clothing,3805.34,2268.89,Returning,0.17,Cash,Online
+1073,2024-10-20,Bob,North,3288.08,60,Food,2029.4,1215.49,New,0.12,Cash,Retail
+1057,2024-10-21,Bob,West,8879.6,90,Food,3080.24,2422.65,Returning,0.16,Cash,Retail
+1016,2024-10-22,Dani d,East,2645.27,14,Furniture,2278.41,2212.71,Returning,0.17,Cash,Retail
+1006,2024-10-23,Charlie,South,3505.95,95,Furniture,3737.61,5047.48,New,0.1,Credit Card,Retail
+1045,2024-10-24,Dani d,West,2166.41,54,Clothing,1218.82,4226.35,New,0.1,Cash,Retail
+1012,2024-10-25,Charlie,North,7084.97,4,Electronics,386.44,2852.37,Returning,0.22,UPI,Online
+1039,2024-10-26,Charlie,East,9495.84,39,Furniture,1569.65,5437.78,Returning,0.26,UPI,Online
+1041,2024-10-27,Charlie,South,3420.71,72,Electronics,2424.11,2639.23,New,0.07,Bank Transfer,Online
+1008,2024-10-28,Bob,South,5278.66,25,Clothing,923.3,461.57,Returning,0.04,Cash,Retail
+1049,2024-10-29,Rami d,West,6709.06,77,Electronics,1838.51,1553.17,New,0.27,UPI,Retail
+1026,2024-10-30,Dani d,East,9995.2,32,Food,2059.92,2482.98,Returning,0.11,UPI,Online
+1065,2024-10-31,Rami d,East,1943.27,59,Electronics,381.22,989.43,New,0.17,UPI,Online
+1004,2024-11-01,Dani d,East,5487.14,63,Clothing,2958.21,5219.47,New,0.11,Credit Card,Retail
+1028,2024-11-02,Charlie,East,4466.08,38,Clothing,4433.28,4252.64,New,0.05,Cash,Online
+1036,2024-11-03,Bob,North,8792.38,92,Clothing,843.54,1585.34,Returning,0.18,Credit Card,Online
+1037,2024-11-04,Rami d,East,5283.71,53,Electronics,3029.26,3310.8,Returning,0.16,Credit Card,Online
+1082,2024-11-05,Bob,South,1998.8,94,Food,3357.22,4009.75,Returning,0.07,UPI,Retail
+1007,2024-11-06,Dani d,South,6709.82,67,Furniture,2154.74,5185.84,Returning,0.14,UPI,Retail
+1064,2024-11-07,Bob,North,7937.03,28,Food,3535.38,4866.75,New,0.24,Bank Transfer,Online
+1085,2024-11-08,Bob,South,1025.93,3,Electronics,2112.58,2906.28,New,0.18,Cash,Retail
+1016,2024-11-09,Rami d,South,8730.61,98,Electronics,2572.72,4294.39,New,0.04,Cash,Online
+1070,2024-11-10,Charlie,East,2674.21,80,Furniture,136.03,3157.47,Returning,0.17,UPI,Online
+1088,2024-11-11,Bob,South,5968.62,22,Electronics,3489.43,3106.97,Returning,0.21,UPI,Retail
+1044,2024-11-12,Charlie,North,4742.18,96,Clothing,3340.58,763.87,Returning,0.24,Cash,Retail
+1003,2024-11-13,Dani d,East,7476.88,38,Clothing,288.16,824.84,New,0.19,Bank Transfer,Retail
+1035,2024-11-14,Bob,West,4340.45,72,Clothing,1904.43,2983.0,Returning,0.05,UPI,Online
+1069,2024-11-15,Rami d,East,8827.87,72,Clothing,4897.26,1588.41,Returning,0.22,Bank Transfer,Online
+1030,2024-11-16,Dani d,North,7574.47,62,Clothing,2161.61,262.55,New,0.21,Credit Card,Online
+1018,2024-11-17,Dani d,East,6829.42,57,Electronics,2559.53,4017.19,New,0.02,UPI,Retail
+1060,2024-11-18,Rami d,East,8166.17,6,Furniture,4558.66,323.8,Returning,0.13,Credit Card,Online
+1053,2024-11-19,Bob,North,7786.21,78,Furniture,3614.58,3334.73,New,0.11,UPI,Online
+1038,2024-11-20,Bob,East,1323.45,32,Clothing,2952.14,3034.69,Returning,0.2,Credit Card,Online
+1090,2024-11-21,Dani d,North,4552.61,99,Electronics,4009.24,5333.16,New,0.07,UPI,Online
+1073,2024-11-22,Bob,North,9377.27,10,Food,4335.39,2740.54,New,0.18,Bank Transfer,Retail
+1089,2024-11-23,Charlie,West,2131.52,3,Food,2338.75,490.27,New,0.27,Bank Transfer,Retail
+1018,2024-11-24,Rami d,South,7633.87,59,Electronics,2428.03,3101.53,Returning,0.24,Bank Transfer,Retail
+1038,2024-11-25,Charlie,South,9771.33,76,Clothing,1991.65,4649.86,Returning,0.28,Credit Card,Online
+1066,2024-11-26,Bob,East,1469.79,49,Furniture,4836.86,5483.14,Returning,0.29,Bank Transfer,Online
+1044,2024-11-27,Dani d,East,7139.74,59,Electronics,3516.11,2452.34,New,0.01,Credit Card,Online
+1012,2024-11-28,Rami d,West,5213.39,31,Food,507.79,1863.6,New,0.19,UPI,Retail
+1091,2024-11-29,Bob,West,6212.58,93,Food,4328.5,5000.6,New,0.13,Credit Card,Retail
+1057,2024-11-30,Bob,West,1768.07,69,Food,2454.74,1173.15,New,0.26,UPI,Retail
+1019,2024-12-01,Dani d,North,1387.06,62,Clothing,436.89,3442.54,Returning,0.08,Cash,Retail
+1091,2024-12-02,Dani d,West,7001.8,52,Food,2793.61,2320.57,Returning,0.29,Cash,Retail
+1071,2024-12-03,Charlie,West,8409.78,89,Electronics,2144.1,369.79,Returning,0.19,Cash,Online
+1060,2024-12-04,Rami d,East,8038.14,41,Electronics,4400.97,2007.99,New,0.24,Credit Card,Retail
+1038,2024-12-05,Rami d,West,5894.25,31,Food,1099.57,1568.97,New,0.03,Cash,Retail
+1000,2024-12-06,Dani d,North,1898.8,85,Electronics,4149.68,3820.59,Returning,0.06,Cash,Retail
+1002,2024-12-07,Charlie,North,7192.4,84,Food,2832.67,5226.03,New,0.23,Cash,Online
+1076,2024-12-08,Rami d,East,3177.0,22,Food,367.59,1584.05,Returning,0.02,UPI,Retail
+1091,2024-12-09,Dani d,West,9199.62,4,Furniture,4862.04,4491.34,New,0.25,Bank Transfer,Retail
+1061,2024-12-10,Bob,West,8544.39,13,Clothing,2611.81,446.18,New,0.01,Credit Card,Retail
+1062,2024-12-11,Rami d,North,7384.45,45,Clothing,1525.3,3028.95,Returning,0.2,Cash,Online
+1024,2024-12-12,Charlie,West,9539.61,42,Furniture,2400.09,527.44,Returning,0.12,UPI,Online
+1055,2024-12-13,Charlie,West,1282.8,49,Furniture,4303.5,5147.08,New,0.19,Bank Transfer,Retail
+1032,2024-12-14,Charlie,West,7625.8,20,Clothing,1594.03,4249.98,Returning,0.21,Bank Transfer,Retail
+1037,2024-12-15,Bob,South,3972.19,77,Food,1044.11,3670.03,Returning,0.11,Bank Transfer,Retail
+1005,2024-12-16,Rami d,East,9154.59,81,Food,732.45,4557.85,New,0.04,UPI,Retail
+1057,2024-12-17,Rami d,South,3400.08,54,Clothing,1559.51,3614.23,New,0.03,Cash,Online
+1043,2024-12-18,Bob,East,7523.71,36,Food,3922.24,5333.85,New,0.18,Bank Transfer,Retail
+1044,2024-12-19,Rami d,North,8898.82,97,Furniture,2410.97,3969.68,Returning,0.16,UPI,Online
+1031,2024-12-20,Bob,West,1374.91,1,Food,1214.66,5096.92,New,0.23,UPI,Retail
+1044,2024-12-21,Bob,East,4578.83,15,Food,914.31,2916.66,New,0.16,Credit Card,Online
+1060,2024-12-22,Bob,South,7860.78,77,Electronics,1730.37,776.29,New,0.13,UPI,Online
+1046,2024-12-23,Charlie,West,5094.27,17,Electronics,4705.63,2975.75,New,0.13,Bank Transfer,Retail
+1020,2024-12-24,Rami d,North,3405.27,24,Electronics,1780.83,828.77,New,0.02,Bank Transfer,Online
+1079,2024-12-25,Bob,East,2978.25,58,Food,4941.81,3319.84,Returning,0.11,UPI,Retail
+1084,2024-12-26,Rami d,East,2183.66,72,Clothing,2477.63,2731.34,New,0.29,Bank Transfer,Online
+1074,2024-12-27,Charlie,East,8714.17,91,Furniture,977.9,3480.78,New,0.26,UPI,Online
+1035,2024-12-28,Bob,West,6178.2,23,Food,4466.59,203.75,Returning,0.11,Bank Transfer,Retail
+1098,2024-12-29,Dani d,South,1687.46,46,Clothing,2355.74,1192.4,New,0.18,Credit Card,Retail
+1018,2024-12-30,Charlie,South,4443.22,72,Food,3577.39,2778.62,New,0.26,Cash,Online
+1019,2024-12-31,Dani d,East,4309.6,8,Furniture,4920.19,5235.19,Returning,0.14,Credit Card,Online
+1056,2025-01-01,Rami d,North,2635.65,59,Food,345.86,2202.31,New,0.02,Credit Card,Retail
+1017,2025-01-02,Rami d,North,4919.57,90,Furniture,573.8,2420.39,Returning,0.03,Cash,Retail
+1046,2025-01-03,Charlie,South,3988.89,59,Food,3630.24,3973.62,New,0.16,Bank Transfer,Retail
+1048,2025-01-04,Rami d,North,4076.23,13,Furniture,1480.94,3380.29,Returning,0.29,Cash,Online
+1013,2025-01-05,Dani d,South,7651.24,39,Food,1003.08,1749.25,Returning,0.21,UPI,Retail
+1014,2025-01-06,Bob,East,3009.37,28,Furniture,292.87,2347.87,New,0.03,Cash,Retail
+1030,2025-01-07,Bob,South,6776.74,89,Electronics,207.05,1314.69,Returning,0.06,Credit Card,Online
+1000,2025-01-08,Bob,South,6135.85,61,Food,3894.98,5318.21,Returning,0.23,Cash,Retail
+1053,2025-01-09,Charlie,East,6112.83,16,Food,758.72,848.89,New,0.25,Bank Transfer,Retail
+1002,2025-01-10,Rami d,North,6967.07,2,Clothing,2391.83,2139.33,New,0.19,Credit Card,Retail
+1015,2025-01-11,Dani d,South,5935.44,82,Clothing,3068.89,288.24,Returning,0.2,UPI,Retail
+1086,2025-01-12,Rami d,South,8913.3,17,Furniture,2198.92,1336.52,New,0.02,Bank Transfer,Online
+1056,2025-01-13,Rami d,East,7080.22,30,Food,232.82,4325.52,Returning,0.25,Credit Card,Retail
+1074,2025-01-14,Rami d,North,5922.67,13,Furniture,3939.16,1226.29,Returning,0.24,UPI,Retail
+1011,2025-01-15,Bob,South,8467.87,96,Electronics,151.51,578.34,New,0.09,Bank Transfer,Retail
+1073,2025-01-16,Dani d,East,6455.32,93,Clothing,3833.26,2688.32,New,0.22,UPI,Retail
+1095,2025-01-17,Dani d,South,3620.3,94,Furniture,4477.19,203.34,Returning,0.07,Cash,Retail
+1015,2025-01-18,Rami d,West,2863.85,82,Furniture,2220.92,603.5,New,0.02,Cash,Retail
+1071,2025-01-19,Bob,East,2370.95,13,Clothing,2724.16,4470.8,New,0.07,UPI,Online
+1075,2025-01-20,Bob,North,9095.1,43,Food,2437.22,4277.38,Returning,0.06,Cash,Online
+1023,2025-01-21,Dani d,North,7391.22,85,Furniture,2007.12,5045.99,Returning,0.11,UPI,Online
+1027,2025-01-22,Bob,North,9436.41,94,Clothing,4448.38,4721.66,Returning,0.13,Bank Transfer,Retail
+1007,2025-01-23,Bob,North,6429.63,21,Food,4480.27,3804.99,Returning,0.16,Credit Card,Retail
+1091,2025-01-24,Bob,South,5260.61,55,Electronics,1745.5,429.98,Returning,0.15,UPI,Retail
+1035,2025-01-25,Charlie,South,1537.45,81,Clothing,3113.84,4338.24,Returning,0.09,Credit Card,Online
+1089,2025-01-26,Rami d,North,7044.78,40,Furniture,4641.85,4673.48,New,0.02,Credit Card,Retail
+1007,2025-01-27,Dani d,North,6239.88,83,Electronics,4814.09,4425.09,Returning,0.19,UPI,Online
+1057,2025-01-28,Dani d,North,9911.88,15,Food,2593.9,2870.36,New,0.12,Cash,Retail
+1059,2025-01-29,Charlie,South,3152.43,73,Food,2318.84,1396.02,New,0.1,Bank Transfer,Retail
+1049,2025-01-30,Rami d,North,5776.64,52,Clothing,1465.6,4672.52,Returning,0.26,Credit Card,Online
+1027,2025-01-31,Dani d,North,6858.62,74,Clothing,4798.47,4040.32,New,0.23,Bank Transfer,Online
+1091,2025-02-01,Bob,West,6801.32,95,Clothing,799.79,5397.07,Returning,0.26,Credit Card,Online
+1040,2025-02-02,Dani d,West,6051.64,53,Food,2941.16,982.96,New,0.15,UPI,Online
+1099,2025-02-03,Bob,North,7992.35,87,Electronics,1484.5,1357.31,Returning,0.05,Cash,Online
+1063,2025-02-04,Charlie,East,2844.83,52,Food,1467.14,1283.12,Returning,0.21,Bank Transfer,Online
+1026,2025-02-05,Bob,North,7530.64,30,Furniture,2084.35,4390.09,Returning,0.07,Credit Card,Retail
+1062,2025-02-06,Dani d,West,6577.61,33,Food,4994.09,1149.95,Returning,0.14,UPI,Online
+1016,2025-02-07,Dani d,East,9064.68,57,Furniture,369.33,506.63,New,0.03,UPI,Retail
+1072,2025-02-08,Dani d,East,8624.75,52,Electronics,2934.85,5492.3,New,0.25,Credit Card,Retail
+1032,2025-02-09,Charlie,North,3836.32,9,Clothing,504.6,282.77,New,0.05,Credit Card,Retail
+1083,2025-02-10,Charlie,West,3486.14,54,Clothing,857.15,4618.56,New,0.27,Credit Card,Retail
+1076,2025-02-11,Rami d,West,9834.88,1,Food,2253.86,2104.71,New,0.26,Cash,Retail
+1091,2025-02-12,Dani d,East,5745.39,44,Clothing,2601.25,4652.64,Returning,0.14,Credit Card,Online
+1028,2025-02-13,Bob,North,9157.79,99,Electronics,1368.08,3117.22,Returning,0.23,Credit Card,Online
+1012,2025-02-14,Charlie,South,2474.93,75,Clothing,1650.64,4973.73,Returning,0.19,Cash,Online
+1045,2025-02-15,Dani d,South,6785.37,98,Food,526.14,5105.13,Returning,0.24,UPI,Retail
+1034,2025-02-16,Dani d,West,8288.74,80,Electronics,1585.78,198.68,Returning,0.14,Credit Card,Online
+1005,2025-02-17,Charlie,South,9526.56,9,Furniture,4836.14,553.46,New,0.24,Bank Transfer,Retail
+1081,2025-02-18,Rami d,West,4036.06,32,Food,4729.07,1489.42,Returning,0.14,UPI,Retail
+1068,2025-02-19,Charlie,West,7524.83,15,Furniture,1740.9,3730.84,Returning,0.28,Bank Transfer,Retail
+1046,2025-02-20,Charlie,West,5849.32,12,Electronics,2897.18,4902.26,New,0.15,Credit Card,Retail
+1024,2025-02-21,Bob,South,1545.66,97,Food,4557.02,2610.69,New,0.14,Cash,Online
+1065,2025-02-22,Bob,West,7210.0,78,Food,130.3,3397.31,Returning,0.24,Cash,Online
+1009,2025-02-23,Rami d,East,7210.87,57,Electronics,4072.35,1158.47,Returning,0.25,Cash,Online
+1055,2025-02-24,Dani d,North,9375.46,8,Clothing,4747.01,4456.57,New,0.17,Credit Card,Online
+1029,2025-02-25,Charlie,North,5475.81,72,Food,547.5,5325.21,Returning,0.06,Credit Card,Online
+1004,2025-02-26,Rami d,West,3072.26,27,Food,891.09,1587.0,Returning,0.15,Bank Transfer,Retail
+1032,2025-02-27,Bob,North,1401.07,62,Furniture,4807.66,2797.32,Returning,0.29,Cash,Online
+1064,2025-02-28,Charlie,South,4740.78,12,Clothing,2733.95,610.72,New,0.23,Credit Card,Retail
+1017,2025-03-01,Dani d,South,3717.25,65,Furniture,169.56,3141.38,Returning,0.25,UPI,Retail
+1095,2025-03-02,Bob,North,7849.79,42,Furniture,1362.4,2839.89,Returning,0.02,Credit Card,Retail
+1048,2025-03-03,Bob,South,4188.41,62,Clothing,2304.72,922.74,New,0.15,Credit Card,Online
+1010,2025-03-04,Bob,North,9541.64,11,Clothing,3495.25,2515.05,New,0.2,UPI,Retail
+1084,2025-03-05,Rami d,North,9660.79,43,Electronics,3692.49,1937.46,New,0.25,Cash,Retail
+1025,2025-03-06,Dani d,North,6588.18,95,Clothing,4977.57,2941.8,Returning,0.02,UPI,Online
+1062,2025-03-07,Charlie,West,9357.94,17,Food,1508.8,3283.25,New,0.26,Cash,Retail
+1088,2025-03-08,Rami d,North,7847.69,97,Clothing,2737.28,195.45,Returning,0.17,UPI,Retail
+1085,2025-03-09,Rami d,West,5921.74,32,Electronics,2713.29,4221.38,New,0.07,Bank Transfer,Retail
+1058,2025-03-10,Rami d,North,2622.77,93,Electronics,2087.66,3964.63,Returning,0.1,Cash,Online
+1026,2025-03-11,Bob,North,5127.38,85,Electronics,928.89,2109.63,New,0.09,Credit Card,Retail
+1048,2025-03-12,Dani d,North,6047.87,85,Clothing,4889.54,433.21,Returning,0.16,Bank Transfer,Retail
+1076,2025-03-13,Rami d,South,8775.65,40,Clothing,4281.25,4188.89,Returning,0.02,Cash,Online
+1032,2025-03-14,Charlie,West,5332.0,23,Furniture,2541.83,5260.19,New,0.06,Cash,Online
+1097,2025-03-15,Dani d,West,9079.07,56,Furniture,3055.9,1434.81,New,0.25,Cash,Retail
+1098,2025-03-16,Charlie,North,7069.14,6,Food,1213.58,1880.86,Returning,0.05,UPI,Online
+1000,2025-03-17,Dani d,North,2232.99,86,Furniture,2764.56,1133.4,New,0.08,Cash,Online
+1020,2025-03-18,Charlie,South,9954.83,50,Food,3505.35,3236.61,Returning,0.14,Credit Card,Online
+1054,2025-03-19,Bob,South,5745.09,37,Electronics,2624.32,978.4,New,0.16,Cash,Online
+1005,2025-03-20,Rami d,South,4526.72,64,Furniture,4952.4,2055.64,New,0.23,Credit Card,Online
+1091,2025-03-21,Charlie,West,6932.02,54,Clothing,3095.57,3879.02,Returning,0.14,Credit Card,Online
+1080,2025-03-22,Dani d,West,1980.04,72,Furniture,1917.77,3146.62,New,0.24,Credit Card,Online
+1068,2025-03-23,Rami d,West,6728.85,49,Food,3883.54,2217.57,New,0.19,Bank Transfer,Retail
+1094,2025-03-24,Rami d,North,5484.12,99,Furniture,935.27,2398.34,Returning,0.04,Credit Card,Online
+1004,2025-03-25,Dani d,West,4660.07,11,Electronics,1984.13,3157.29,Returning,0.06,UPI,Online
+1002,2025-03-26,Charlie,East,9577.18,88,Clothing,1800.1,181.38,New,0.14,Cash,Online
+1052,2025-03-27,Bob,East,5702.86,49,Food,2215.85,570.03,Returning,0.13,UPI,Retail
+1022,2025-03-28,Bob,South,2972.06,21,Clothing,3930.72,4864.73,New,0.23,Bank Transfer,Online
+1052,2025-03-29,Charlie,West,5130.67,66,Clothing,2472.45,566.65,New,0.18,Cash,Online
+1036,2025-03-30,Rami d,East,9274.49,63,Food,3990.67,3931.4,Returning,0.12,Credit Card,Retail
+1073,2025-03-31,Rami d,South,2584.86,83,Clothing,2924.8,5072.2,Returning,0.06,Cash,Online
+1073,2025-04-01,Rami d,West,2925.61,28,Clothing,1776.14,1598.16,Returning,0.08,Bank Transfer,Retail
+1082,2025-04-02,Rami d,North,1117.27,17,Furniture,4068.9,2132.13,Returning,0.18,Bank Transfer,Retail
+1016,2025-04-03,Charlie,East,1127.71,6,Clothing,1267.62,3193.73,Returning,0.13,UPI,Online
+1084,2025-04-04,Rami d,North,8464.52,19,Clothing,1199.48,4867.14,Returning,0.16,Cash,Retail
+1077,2025-04-05,Dani d,West,7589.1,56,Clothing,2572.06,5189.19,New,0.06,Cash,Online
+1072,2025-04-06,Rami d,East,4195.37,28,Clothing,1378.16,4106.66,New,0.2,Cash,Online
+1000,2025-04-07,Bob,West,7284.8,66,Food,144.53,613.42,Returning,0.26,UPI,Retail
+1050,2025-04-08,Rami d,North,4556.85,38,Electronics,3276.66,3729.97,New,0.08,Bank Transfer,Retail
+1044,2025-04-09,Charlie,East,9576.07,37,Furniture,2604.36,2345.12,New,0.15,Credit Card,Online
+1076,2025-04-10,Bob,North,9703.47,68,Clothing,2283.04,2668.25,New,0.29,Cash,Online
+1003,2025-04-11,Charlie,West,4535.14,86,Clothing,4838.15,412.94,New,0.11,UPI,Retail
+1061,2025-04-12,Charlie,West,8688.0,90,Food,2898.88,1172.18,Returning,0.18,UPI,Online
+1064,2025-04-13,Bob,North,7957.8,49,Electronics,4330.81,4379.25,New,0.04,Credit Card,Online
+1031,2025-04-14,Charlie,East,3790.0,43,Clothing,783.31,2578.68,New,0.19,Bank Transfer,Online
+1033,2025-04-15,Charlie,North,3088.36,36,Food,2889.11,1763.89,Returning,0.04,Cash,Retail
+1091,2025-04-16,Rami d,West,5124.11,58,Furniture,4353.1,2204.5,Returning,0.29,Cash,Online
+1094,2025-04-17,Dani d,North,8032.14,13,Furniture,2957.22,4721.04,Returning,0.22,UPI,Online
+1071,2025-04-18,Charlie,West,9641.51,52,Clothing,3618.27,4157.14,Returning,0.24,Bank Transfer,Online
+1038,2025-04-19,Charlie,North,7872.21,58,Clothing,1923.01,1606.89,New,0.21,Cash,Retail
+1025,2025-04-20,Charlie,East,8696.86,32,Electronics,553.0,778.63,Returning,0.18,Credit Card,Retail
+1033,2025-04-21,Rami d,East,6427.58,81,Electronics,2343.71,1498.19,New,0.14,Bank Transfer,Retail
+1053,2025-04-22,Dani d,North,8518.67,60,Clothing,2032.95,5076.05,New,0.26,Bank Transfer,Online
+1002,2025-04-23,Bob,North,8059.79,83,Food,4348.59,3261.5,Returning,0.29,UPI,Retail
+1049,2025-04-24,Rami d,East,4392.87,58,Electronics,1295.58,3004.12,Returning,0.15,UPI,Online
+1011,2025-04-25,Rami d,West,5967.91,99,Clothing,4837.0,3340.71,Returning,0.28,Cash,Retail
+1064,2025-04-26,Dani d,East,8242.78,56,Electronics,4794.88,2108.25,Returning,0.18,UPI,Online
+1053,2025-04-27,Dani d,West,1414.51,28,Clothing,1313.4,4468.02,Returning,0.17,Bank Transfer,Retail
+1004,2025-04-28,Rami d,North,8272.71,1,Furniture,1805.45,2949.58,Returning,0.14,Cash,Online
+1093,2025-04-29,Bob,North,2600.99,42,Clothing,4488.22,774.6,New,0.07,Cash,Online
+1093,2025-04-30,Rami d,West,5632.15,82,Furniture,4836.45,840.5,New,0.01,Bank Transfer,Retail
+1056,2025-05-01,Dani d,North,8274.48,48,Electronics,2272.85,3022.2,New,0.08,Cash,Online
+1016,2025-05-02,Bob,West,3284.39,40,Clothing,1672.89,5160.65,New,0.16,Credit Card,Retail
+1046,2025-05-03,Dani d,South,3212.27,97,Electronics,2677.86,1799.68,Returning,0.12,Credit Card,Retail
+1022,2025-05-04,Bob,East,4624.88,63,Furniture,3470.07,4802.05,Returning,0.14,Cash,Online
+1078,2025-05-05,Charlie,South,9051.79,76,Clothing,1440.03,4237.91,New,0.29,UPI,Online
+1084,2025-05-06,Dani d,West,1003.99,72,Electronics,3708.72,1475.8,New,0.11,Credit Card,Retail
+1013,2025-05-07,Dani d,East,9112.45,88,Furniture,353.12,344.42,New,0.14,Cash,Retail
+1065,2025-05-08,Rami d,West,2384.26,80,Electronics,341.54,694.88,Returning,0.05,Credit Card,Retail
+1074,2025-05-09,Dani d,East,9910.78,4,Food,1992.81,4047.44,Returning,0.02,UPI,Online
+1050,2025-05-10,Dani d,East,9593.62,38,Furniture,1832.02,1218.23,Returning,0.23,Bank Transfer,Retail
+1037,2025-05-11,Charlie,East,5452.08,27,Furniture,1646.6,2136.3,New,0.18,Cash,Online
+1063,2025-05-12,Dani d,East,5614.48,9,Furniture,2506.0,2834.09,New,0.23,Cash,Online
+1097,2025-05-13,Charlie,West,5333.94,16,Clothing,1671.59,4031.25,Returning,0.05,Cash,Retail
+1037,2025-05-14,Charlie,East,6718.99,56,Clothing,1042.06,755.79,Returning,0.18,Cash,Retail
+1049,2025-05-15,Charlie,East,1816.5,76,Clothing,1616.4,2324.06,New,0.08,Cash,Online
+1097,2025-05-16,Charlie,South,1293.56,31,Food,4877.03,2745.14,New,0.08,Cash,Online
+1081,2025-05-17,Bob,North,1519.33,88,Food,2114.46,3043.42,Returning,0.01,UPI,Online
+1029,2025-05-18,Rami d,North,4999.29,14,Furniture,2279.09,4528.23,New,0.05,Bank Transfer,Online
+1078,2025-05-19,Bob,South,3479.93,25,Food,2925.07,1068.48,Returning,0.1,UPI,Retail
+1090,2025-05-20,Dani d,South,6598.36,34,Electronics,4918.37,4471.9,Returning,0.04,UPI,Online
+1050,2025-05-21,Bob,West,9931.98,67,Furniture,1283.85,3856.9,New,0.3,Bank Transfer,Retail
+1062,2025-05-22,Bob,West,4476.91,24,Furniture,3438.28,3123.91,New,0.1,UPI,Retail
+1097,2025-05-23,Dani d,West,6164.57,73,Electronics,3608.32,3892.47,New,0.05,Credit Card,Retail
+1051,2025-05-24,Dani d,South,4740.44,26,Furniture,3075.89,2354.29,Returning,0.07,UPI,Online
+1037,2025-05-25,Dani d,South,8625.45,20,Food,534.03,890.43,New,0.18,Cash,Online
+1096,2025-05-26,Bob,East,9120.13,64,Clothing,3416.67,3711.84,New,0.03,Credit Card,Retail
+1087,2025-05-27,Bob,West,8896.2,10,Electronics,414.06,2957.0,Returning,0.26,Credit Card,Retail
+1078,2025-05-28,Dani d,West,9769.35,83,Food,3021.1,3570.66,Returning,0.29,Bank Transfer,Retail
+1029,2025-05-29,Rami d,West,1247.67,67,Electronics,3723.95,1958.29,New,0.08,UPI,Retail
+1050,2025-05-30,Rami d,North,8558.35,24,Electronics,1133.75,5001.74,Returning,0.14,UPI,Online
+1080,2025-05-31,Charlie,East,7765.95,5,Furniture,4223.95,3292.43,Returning,0.02,Credit Card,Retail
+1004,2025-06-01,Dani d,West,3058.25,67,Furniture,248.73,606.9,Returning,0.2,UPI,Online
+1028,2025-06-02,Charlie,West,9606.88,58,Food,4234.68,2556.45,New,0.13,UPI,Online
+1003,2025-06-03,Rami d,West,2333.6,27,Electronics,2355.61,4196.5,New,0.09,Bank Transfer,Online
+1009,2025-06-04,Charlie,North,7115.95,80,Furniture,1166.18,4398.62,Returning,0.07,Credit Card,Online
+1055,2025-06-05,Dani d,North,3024.01,15,Furniture,755.51,2796.09,Returning,0.2,Cash,Retail
+1016,2025-06-06,Dani d,South,4882.43,35,Electronics,4771.21,4936.9,Returning,0.13,Credit Card,Online
+1073,2025-06-07,Dani d,East,7472.44,76,Food,456.06,1582.03,New,0.06,Bank Transfer,Retail
+1016,2025-06-08,Bob,South,6069.92,53,Food,1075.56,2346.7,Returning,0.21,Bank Transfer,Online
+1083,2025-06-09,Charlie,East,4847.52,44,Electronics,1804.33,4957.49,Returning,0.17,Bank Transfer,Retail
+1087,2025-06-10,Rami d,North,3937.05,26,Food,3139.15,4944.97,New,0.26,UPI,Retail
+1068,2025-06-11,Rami d,West,8556.94,47,Furniture,2769.53,3818.56,Returning,0.04,Credit Card,Retail
+1033,2025-06-12,Rami d,South,2294.33,34,Electronics,715.65,4745.55,New,0.24,UPI,Retail
+1005,2025-06-13,Bob,West,4870.93,87,Furniture,1519.67,624.94,New,0.21,UPI,Retail
+1052,2025-06-14,Bob,South,9133.82,95,Clothing,1269.88,4777.72,New,0.04,Credit Card,Online
+1065,2025-06-15,Dani d,North,8612.65,50,Clothing,1146.36,1865.32,Returning,0.21,Bank Transfer,Retail
+1076,2025-06-16,Rami d,North,4608.48,84,Food,2114.61,1104.07,Returning,0.14,Cash,Online
+1042,2025-06-17,Bob,North,7867.98,12,Clothing,3549.75,1430.63,New,0.28,Cash,Retail
+1074,2025-06-18,Dani d,South,8408.45,87,Furniture,1165.52,2386.13,Returning,0.05,Credit Card,Online
+1022,2025-06-19,Rami d,East,8999.99,4,Clothing,1896.73,1493.88,New,0.2,Credit Card,Online
+1054,2025-06-20,Charlie,South,5900.55,87,Furniture,2015.5,1865.04,Returning,0.12,Bank Transfer,Online
+1079,2025-06-21,Dani d,East,2840.15,48,Food,4884.64,872.13,New,0.29,Credit Card,Retail
+1094,2025-06-22,Bob,South,3297.78,55,Food,4777.87,1734.55,New,0.11,Credit Card,Online
+1074,2025-06-23,Bob,South,3661.25,1,Furniture,4020.67,3211.72,Returning,0.29,Bank Transfer,Retail
+1015,2025-06-24,Dani d,North,6344.22,89,Clothing,1284.13,2513.92,Returning,0.27,Bank Transfer,Retail
+1007,2025-06-25,Dani d,West,1295.29,66,Food,433.38,2004.95,Returning,0.09,UPI,Online
+1003,2025-06-26,Bob,West,6724.38,30,Electronics,1652.83,4143.52,Returning,0.24,Credit Card,Online
+1003,2025-06-27,Charlie,East,4279.19,3,Food,1407.29,4930.28,New,0.3,Cash,Retail
+1055,2025-06-28,Rami d,West,3657.18,21,Clothing,2579.04,4198.82,New,0.08,Credit Card,Retail
+1024,2025-06-29,Charlie,South,8915.47,89,Electronics,3910.87,1926.2,Returning,0.14,Cash,Retail
+1066,2025-06-30,Dani d,South,5140.02,84,Clothing,4305.78,4132.77,Returning,0.16,Cash,Retail
+1095,2025-07-01,Charlie,North,1855.48,49,Furniture,4239.83,963.09,New,0.1,Cash,Retail
+1066,2025-07-02,Bob,North,8440.72,86,Electronics,1862.41,847.2,Returning,0.01,UPI,Retail
+1026,2025-07-03,Dani d,West,1428.77,85,Clothing,3467.45,1999.1,Returning,0.07,Bank Transfer,Online
+1092,2025-07-04,Rami d,East,7540.74,62,Electronics,1632.89,4471.21,Returning,0.09,Bank Transfer,Retail
+1031,2025-07-05,Bob,West,7965.16,97,Clothing,398.44,1467.96,Returning,0.14,UPI,Retail
+1049,2025-07-06,Bob,West,4173.42,38,Electronics,3537.67,488.41,New,0.06,Bank Transfer,Online
+1060,2025-07-07,Rami d,West,8423.09,15,Clothing,148.16,854.65,New,0.26,UPI,Online
+1050,2025-07-08,Rami d,West,5640.93,52,Furniture,2104.99,4744.29,Returning,0.21,Credit Card,Online
+1018,2025-07-09,Charlie,South,5169.64,79,Electronics,1713.96,3540.74,New,0.03,UPI,Retail
+1020,2025-07-10,Dani d,East,1408.63,46,Electronics,3497.55,1504.63,Returning,0.2,Bank Transfer,Online
+1004,2025-07-11,Rami d,South,3610.26,25,Electronics,3854.6,3120.83,Returning,0.2,Bank Transfer,Online
+1081,2025-07-12,Rami d,East,9379.09,21,Electronics,1590.06,2972.55,Returning,0.29,Credit Card,Retail
+1091,2025-07-13,Dani d,North,4526.42,88,Furniture,4076.97,3656.58,New,0.01,UPI,Retail
+1041,2025-07-14,Rami d,West,5920.3,5,Electronics,1540.19,1397.55,New,0.08,Credit Card,Retail
+1060,2025-07-15,Rami d,South,5788.2,70,Food,2287.0,4774.56,New,0.28,Cash,Retail
+1021,2025-07-16,Charlie,East,6313.88,47,Furniture,3662.39,1805.12,New,0.28,UPI,Online
+1020,2025-07-17,Bob,North,1551.98,87,Food,3495.31,3863.6,New,0.22,Credit Card,Retail
+1069,2025-07-18,Bob,North,4259.59,68,Electronics,4938.11,236.27,Returning,0.23,Credit Card,Online
+1000,2025-07-19,Bob,West,7508.15,91,Clothing,1203.29,2143.72,Returning,0.04,Bank Transfer,Retail
+1004,2025-07-20,Bob,East,2805.04,18,Food,3345.36,2031.65,New,0.16,UPI,Online
+1011,2025-07-21,Rami d,South,2832.21,21,Electronics,3087.44,3057.64,New,0.08,Cash,Retail
+1089,2025-07-22,Dani d,West,1090.82,92,Food,4583.98,539.14,New,0.06,Cash,Retail
+1045,2025-07-23,Dani d,South,4937.34,99,Electronics,866.17,4377.2,Returning,0.24,UPI,Retail
+1033,2025-07-24,Charlie,North,8944.61,86,Electronics,3783.81,1315.13,New,0.05,UPI,Online
+1048,2025-07-25,Charlie,South,1467.11,23,Electronics,2884.52,3772.15,Returning,0.15,Credit Card,Online
+1077,2025-07-26,Rami d,South,2720.07,64,Clothing,1445.86,4447.18,Returning,0.28,Bank Transfer,Online
+1089,2025-07-27,Dani d,West,3790.76,67,Food,2424.73,3156.04,New,0.06,Bank Transfer,Retail
+1044,2025-07-28,Dani d,South,7585.52,40,Furniture,1735.51,4113.73,Returning,0.29,Bank Transfer,Online
+1026,2025-07-29,Bob,West,6765.72,10,Furniture,2938.64,3690.95,Returning,0.3,UPI,Retail
+1072,2025-07-30,Rami d,North,4743.5,89,Furniture,4456.1,2052.08,New,0.17,Bank Transfer,Retail
+1025,2025-07-31,Rami d,West,7831.62,52,Furniture,2889.59,4477.39,Returning,0.06,Credit Card,Retail
+1046,2025-08-01,Bob,West,6486.68,72,Electronics,3195.44,1726.65,New,0.1,UPI,Online
+1085,2025-08-02,Rami d,East,9064.37,75,Food,2641.86,3205.99,Returning,0.13,UPI,Retail
+1055,2025-08-03,Rami d,South,8362.24,61,Food,350.71,4137.88,New,0.1,Bank Transfer,Online
+1093,2025-08-04,Charlie,North,3275.32,64,Clothing,1241.01,2177.41,New,0.09,Cash,Retail
+1062,2025-08-05,Dani d,West,3442.95,5,Food,2510.81,1769.81,Returning,0.29,Cash,Retail
+1047,2025-08-06,Rami d,North,2128.21,53,Food,1620.15,2607.5,New,0.05,Credit Card,Retail
+1060,2025-08-07,Charlie,East,4032.68,55,Food,990.64,4526.1,Returning,0.22,Bank Transfer,Online
+1080,2025-08-08,Dani d,South,9995.9,37,Clothing,2570.25,5125.08,Returning,0.01,Bank Transfer,Online
+1025,2025-08-09,Bob,West,4651.76,56,Furniture,1681.77,3066.2,New,0.18,UPI,Retail
+1035,2025-08-10,Charlie,South,2984.4,59,Food,1364.73,3688.84,Returning,0.28,UPI,Online
+1000,2025-08-11,Charlie,East,7862.35,93,Clothing,2373.53,4982.51,New,0.09,Bank Transfer,Online
+1007,2025-08-12,Dani d,East,5882.24,69,Clothing,753.09,677.23,Returning,0.06,UPI,Retail
+1098,2025-08-13,Bob,North,2346.41,73,Electronics,4645.95,1391.62,Returning,0.2,Bank Transfer,Retail
+1051,2025-08-14,Charlie,West,4426.21,59,Clothing,4351.74,3942.62,New,0.22,Credit Card,Online
+1078,2025-08-15,Rami d,North,4730.23,2,Furniture,3567.34,4557.03,Returning,0.21,UPI,Retail
+1046,2025-08-16,Rami d,East,7784.47,65,Food,620.45,4735.11,Returning,0.1,Bank Transfer,Retail
+1055,2025-08-17,Rami d,South,1186.04,60,Clothing,3901.8,2370.82,Returning,0.08,UPI,Online
+1085,2025-08-18,Bob,North,3421.18,51,Furniture,4058.99,627.97,Returning,0.29,Credit Card,Online
+1013,2025-08-19,Charlie,North,5658.37,30,Clothing,3862.05,2492.13,Returning,0.28,UPI,Retail
+1089,2025-08-20,Rami d,South,3419.62,11,Clothing,658.43,1384.43,Returning,0.14,Bank Transfer,Online
+1027,2025-08-21,Bob,North,6655.91,92,Clothing,3255.15,1707.9,Returning,0.26,UPI,Online
+1086,2025-08-22,Rami d,South,5336.81,76,Clothing,4188.19,4281.63,Returning,0.14,UPI,Retail
+1077,2025-08-23,Dani d,West,4255.39,39,Clothing,2929.03,554.07,New,0.13,Bank Transfer,Retail
+1087,2025-08-24,Charlie,South,9542.88,90,Furniture,3267.4,4577.56,Returning,0.06,Cash,Retail
+1001,2025-08-25,Charlie,West,6689.44,77,Food,2345.98,2438.03,Returning,0.13,UPI,Retail
+1025,2025-08-26,Bob,South,2169.47,72,Food,2690.67,3338.94,New,0.17,UPI,Online
+1013,2025-08-27,Bob,East,6040.83,63,Food,268.45,629.64,New,0.02,Credit Card,Online
+1058,2025-08-28,Charlie,East,8026.59,64,Food,3230.92,1954.87,New,0.14,Cash,Retail
+1055,2025-08-29,Rami d,West,7376.41,61,Furniture,499.09,629.9,Returning,0.24,Credit Card,Retail
+1006,2025-08-30,Rami d,West,2548.8,54,Electronics,2231.57,5294.26,New,0.21,Bank Transfer,Retail
+1002,2025-08-31,Dani d,East,9751.78,92,Electronics,1534.01,4468.85,New,0.19,Bank Transfer,Retail
+1022,2025-09-01,Rami d,West,5039.32,94,Furniture,2772.6,2609.04,Returning,0.27,Credit Card,Online
+1017,2025-09-02,Bob,South,2431.23,73,Furniture,753.74,1346.27,Returning,0.02,UPI,Online
+1037,2025-09-03,Bob,South,2621.76,95,Clothing,3489.05,5143.98,New,0.17,Cash,Retail
+1098,2025-09-04,Rami d,East,1884.11,58,Clothing,3995.56,1993.59,New,0.24,Credit Card,Retail
+1014,2025-09-05,Bob,North,8231.66,85,Clothing,900.44,1011.27,Returning,0.17,Credit Card,Online
+1063,2025-09-06,Charlie,South,2098.27,56,Food,611.13,3162.93,Returning,0.1,Bank Transfer,Online
+1088,2025-09-07,Charlie,West,2126.13,34,Clothing,813.03,5199.19,Returning,0.05,UPI,Online
+1027,2025-09-08,Rami d,North,8654.24,31,Electronics,4397.93,170.49,Returning,0.27,Cash,Online
+1073,2025-09-09,Charlie,North,4101.44,52,Food,2688.13,1423.97,Returning,0.15,Credit Card,Retail
+1038,2025-09-10,Charlie,South,1277.72,89,Clothing,2389.58,5170.69,New,0.26,Cash,Online
+1056,2025-09-11,Dani d,South,1467.06,76,Food,622.89,1065.31,Returning,0.18,Cash,Online
+1016,2025-09-12,Dani d,North,2279.53,1,Electronics,3282.82,755.85,Returning,0.21,Credit Card,Online
+1085,2025-09-13,Charlie,North,2920.54,55,Clothing,4353.2,3200.5,Returning,0.24,Cash,Retail
+1089,2025-09-14,Rami d,East,6986.32,22,Electronics,4158.11,4760.86,Returning,0.2,Bank Transfer,Retail
+1043,2025-09-15,Dani d,West,2415.94,40,Electronics,3167.67,2702.54,Returning,0.13,UPI,Online
+1024,2025-09-16,Bob,East,2069.87,1,Electronics,468.87,5470.92,New,0.16,UPI,Online
+1016,2025-09-17,Bob,South,7882.47,65,Clothing,650.75,3783.57,Returning,0.24,UPI,Retail
+1012,2025-09-18,Bob,East,7039.5,63,Furniture,341.61,546.3,New,0.12,Bank Transfer,Retail
+1083,2025-09-19,Rami d,East,4917.92,54,Clothing,1361.65,5461.65,Returning,0.12,Bank Transfer,Online
+1024,2025-09-20,Charlie,East,5943.79,42,Electronics,764.74,2332.23,New,0.04,Bank Transfer,Retail
+1067,2025-09-21,Bob,East,3807.86,21,Clothing,1374.24,1687.6,New,0.28,UPI,Online
+1009,2025-09-22,Rami d,West,5342.5,79,Electronics,1986.78,3134.65,Returning,0.04,Cash,Retail
+1066,2025-09-23,Dani d,West,5560.05,81,Furniture,4720.62,1778.05,Returning,0.2,Bank Transfer,Online
+1017,2025-09-24,Charlie,North,4485.14,22,Food,3090.84,612.55,Returning,0.13,Credit Card,Online
+1099,2025-09-25,Dani d,South,9159.15,38,Furniture,4191.37,157.64,Returning,0.13,Bank Transfer,Retail
+1085,2025-09-26,Rami d,East,1144.56,99,Furniture,3580.72,2555.27,Returning,0.21,Credit Card,Online
+1033,2025-09-27,Bob,North,8039.54,80,Food,651.27,4627.22,New,0.03,UPI,Retail
+1007,2025-09-28,Bob,North,2119.45,8,Clothing,3706.01,3211.89,Returning,0.18,Credit Card,Retail
+1039,2025-09-29,Rami d,North,8177.93,62,Food,1447.98,5495.76,Returning,0.23,Bank Transfer,Retail
+1082,2025-09-30,Bob,West,6543.21,47,Clothing,3231.63,1684.63,New,0.25,Bank Transfer,Online
+1041,2025-10-01,Charlie,East,8589.5,17,Clothing,1770.71,1650.43,Returning,0.06,Cash,Online
+1040,2025-10-02,Rami d,East,1877.63,17,Electronics,4988.59,1004.66,New,0.27,UPI,Online
+1005,2025-10-03,Dani d,South,6030.83,90,Electronics,1391.4,1027.74,Returning,0.2,Credit Card,Retail
+1051,2025-10-04,Rami d,East,5509.79,13,Food,1467.74,1675.75,New,0.27,UPI,Online
+1025,2025-10-05,Charlie,East,7355.74,17,Furniture,4660.29,4391.69,Returning,0.15,Bank Transfer,Online
+1063,2025-10-06,Charlie,North,5808.61,38,Food,220.76,4995.8,New,0.17,Cash,Online
+1097,2025-10-07,Rami d,South,5866.61,81,Clothing,3513.78,5366.72,New,0.28,Bank Transfer,Online
+1058,2025-10-08,Rami d,East,4866.36,78,Electronics,3654.1,1392.75,Returning,0.27,Bank Transfer,Retail
+1055,2025-10-09,Bob,West,3779.51,45,Food,4198.26,4864.94,Returning,0.14,Bank Transfer,Online
+1058,2025-10-10,Charlie,East,5340.38,6,Food,4874.75,1906.16,Returning,0.09,Credit Card,Retail
+1069,2025-10-11,Rami d,North,2066.43,35,Electronics,4880.45,753.7,New,0.12,Bank Transfer,Retail
+1032,2025-10-12,Rami d,West,9653.62,14,Electronics,419.86,4804.63,New,0.12,UPI,Retail
+1052,2025-10-13,Charlie,North,7429.7,72,Electronics,4127.01,3553.17,New,0.09,UPI,Retail
+1021,2025-10-14,Rami d,East,9572.2,61,Clothing,3266.92,1031.31,Returning,0.09,Cash,Online
+1020,2025-10-15,Bob,West,3040.55,15,Electronics,3271.98,2449.6,Returning,0.26,UPI,Online
+1069,2025-10-16,Charlie,South,8914.07,54,Furniture,728.91,1686.83,New,0.03,Bank Transfer,Online
+1069,2025-10-17,Bob,South,8279.11,27,Food,3285.92,4091.85,Returning,0.21,Bank Transfer,Retail
+1003,2025-10-18,Bob,West,7094.37,13,Electronics,4914.16,2575.78,New,0.06,UPI,Online
+1093,2025-10-19,Bob,West,6625.26,31,Electronics,4567.91,5442.65,Returning,0.11,Cash,Retail
+1074,2025-10-20,Bob,North,3848.95,35,Clothing,2251.74,442.89,Returning,0.03,Cash,Online
+1061,2025-10-21,Charlie,West,8347.7,60,Clothing,295.75,2049.33,New,0.09,UPI,Online
+1061,2025-10-22,Bob,North,5513.64,6,Food,1875.24,2728.17,Returning,0.23,Credit Card,Online
+1093,2025-10-23,Bob,East,1638.02,69,Furniture,4149.31,2841.76,Returning,0.27,Credit Card,Retail
+1094,2025-10-24,Rami d,North,3815.77,86,Food,3537.35,1840.26,Returning,0.07,Credit Card,Online
+1023,2025-10-25,Charlie,West,9417.67,58,Electronics,2350.78,4051.44,Returning,0.14,Credit Card,Retail
+1054,2025-10-26,Charlie,West,8656.12,49,Furniture,370.0,4829.9,Returning,0.15,UPI,Retail
+1008,2025-10-27,Dani d,East,9837.15,23,Furniture,2191.78,5172.15,New,0.26,Cash,Retail
+1002,2025-10-28,Charlie,West,6651.94,89,Furniture,2398.22,4457.25,Returning,0.23,Bank Transfer,Online
+1030,2025-10-29,Charlie,West,3227.59,34,Furniture,4649.92,4700.6,New,0.16,Bank Transfer,Online
+1039,2025-10-30,Dani d,South,2465.34,26,Food,3241.32,3095.42,Returning,0.2,UPI,Retail
+1035,2025-10-31,Charlie,South,2682.23,47,Clothing,1627.1,4568.5,Returning,0.26,Bank Transfer,Retail
+1023,2025-11-01,Charlie,East,1178.16,5,Clothing,2674.06,1773.75,New,0.01,Credit Card,Retail
+1094,2025-11-02,Charlie,North,4516.14,90,Electronics,423.67,2281.86,New,0.13,Cash,Retail
+1005,2025-11-03,Charlie,South,2722.85,20,Clothing,4865.58,1845.48,Returning,0.27,UPI,Retail
+1065,2025-11-04,Dani d,North,4704.9,6,Clothing,1864.29,2650.52,Returning,0.22,Cash,Online
+1083,2025-11-05,Charlie,West,9414.95,70,Clothing,2441.55,1677.85,New,0.17,UPI,Online
+1091,2025-11-06,Charlie,South,4874.86,59,Clothing,1840.89,5294.62,New,0.16,UPI,Online
+1074,2025-11-07,Dani d,East,8901.86,64,Electronics,3444.31,1823.72,New,0.11,UPI,Retail
+1003,2025-11-08,Rami d,East,6449.54,18,Food,3344.94,674.54,New,0.16,UPI,Retail
+1078,2025-11-09,Bob,East,3224.18,4,Furniture,3605.08,2968.47,Returning,0.2,Cash,Online
+1005,2025-11-10,Rami d,South,4202.69,17,Clothing,1413.9,455.48,Returning,0.13,Bank Transfer,Online
+1093,2025-11-11,Dani d,North,1755.28,14,Food,1646.78,741.41,Returning,0.22,UPI,Retail
+1050,2025-11-12,Bob,West,4001.16,78,Clothing,713.73,1323.73,Returning,0.26,Credit Card,Retail
+1061,2025-11-13,Dani d,North,7097.87,13,Clothing,3312.0,2634.27,Returning,0.05,UPI,Retail
+1056,2025-11-14,Dani d,North,1649.0,7,Furniture,295.01,2467.89,New,0.14,Cash,Online
+1065,2025-11-15,Charlie,West,2848.61,44,Furniture,3028.64,4428.35,New,0.13,UPI,Retail
+1078,2025-11-16,Bob,West,4432.97,15,Furniture,4361.51,4106.19,New,0.21,Credit Card,Retail
+1074,2025-11-17,Charlie,South,9838.45,19,Clothing,4465.08,2430.8,Returning,0.08,Cash,Retail
+1007,2025-11-18,Bob,South,8063.76,63,Clothing,2300.29,1935.32,New,0.2,UPI,Online
+1025,2025-11-19,Dani d,South,7601.38,35,Clothing,2350.59,1843.11,Returning,0.26,Credit Card,Retail
+1050,2025-11-20,Dani d,South,2045.72,81,Furniture,477.15,4290.87,Returning,0.13,Cash,Online
+1044,2025-11-21,Rami d,South,8028.96,35,Electronics,3386.75,428.59,Returning,0.27,UPI,Retail
+1043,2025-11-22,Bob,West,8067.42,19,Food,4124.17,218.6,New,0.3,Credit Card,Retail
+1004,2025-11-23,Charlie,North,6409.92,20,Electronics,1298.81,4406.16,Returning,0.04,Cash,Online
+1069,2025-11-24,Rami d,South,9913.26,35,Clothing,2164.37,2702.73,Returning,0.08,UPI,Retail
+1025,2025-11-25,Rami d,South,3927.29,32,Clothing,4210.31,850.21,New,0.29,Cash,Online
+1067,2025-11-26,Rami d,North,9471.45,48,Electronics,4397.89,1410.28,Returning,0.29,Credit Card,Retail
+1018,2025-11-27,Charlie,South,9232.58,44,Clothing,1291.58,5138.9,New,0.04,UPI,Online
+1083,2025-11-28,Rami d,North,1103.33,24,Food,2797.8,4748.34,Returning,0.01,UPI,Retail
+1096,2025-11-29,Charlie,North,5051.05,61,Clothing,1043.22,3947.35,New,0.06,UPI,Online
+1019,2025-11-30,Rami d,West,9793.94,17,Food,599.21,2729.9,Returning,0.3,Credit Card,Online
+1011,2025-12-01,Charlie,East,1928.09,71,Electronics,4564.49,2933.73,Returning,0.06,Bank Transfer,Retail
+1046,2025-12-02,Dani d,West,5930.06,50,Electronics,4120.49,5367.56,New,0.16,UPI,Online
+1000,2025-12-03,Dani d,East,9810.62,65,Clothing,3824.17,5316.87,Returning,0.26,Credit Card,Retail
+1089,2025-12-04,Dani d,East,5999.46,99,Food,338.95,1301.69,New,0.02,Cash,Online
+1013,2025-12-05,Dani d,East,2708.34,32,Clothing,4234.27,4489.41,Returning,0.19,Cash,Retail
+1063,2025-12-06,Dani d,South,6239.65,36,Furniture,2246.42,1205.25,New,0.09,Credit Card,Retail
+1037,2025-12-07,Rami d,West,2839.97,13,Furniture,1777.74,1292.43,Returning,0.26,Bank Transfer,Retail
+1036,2025-12-08,Rami d,East,5677.34,70,Furniture,2777.73,3767.1,Returning,0.09,Credit Card,Retail
+1010,2025-12-09,Rami d,North,1666.38,58,Furniture,547.63,2316.76,Returning,0.21,Cash,Online
+1099,2025-12-10,Charlie,South,6449.34,14,Clothing,3807.57,5133.76,New,0.21,Cash,Retail
+1076,2025-12-11,Charlie,West,5651.11,37,Furniture,2953.93,626.2,New,0.07,UPI,Retail
+1002,2025-12-12,Charlie,East,7661.45,79,Food,1014.29,2886.66,New,0.02,Bank Transfer,Retail
+1032,2025-12-13,Charlie,North,6676.3,68,Electronics,1022.34,5064.09,New,0.13,Credit Card,Retail
+1005,2025-12-14,Dani d,West,5946.46,40,Electronics,1002.82,4987.01,New,0.09,Cash,Retail
+1049,2025-12-15,Dani d,West,7208.01,59,Furniture,379.31,987.43,Returning,0.24,Cash,Online
+1009,2025-12-16,Dani d,South,2295.48,80,Furniture,2980.21,2111.51,Returning,0.24,Cash,Retail
+1004,2025-12-17,Bob,West,6358.24,92,Furniture,4217.71,3462.3,Returning,0.14,Credit Card,Online
+1022,2025-12-18,Rami d,South,2549.0,16,Clothing,185.74,1002.76,Returning,0.19,Credit Card,Online
+1009,2025-12-19,Charlie,East,9329.7,62,Electronics,340.12,5328.92,Returning,0.19,Bank Transfer,Retail
+1043,2025-12-20,Charlie,South,1615.01,4,Furniture,2906.57,5043.91,New,0.25,UPI,Retail
+1001,2025-12-21,Dani d,North,4873.37,45,Food,4115.53,1043.18,Returning,0.13,UPI,Online
+1012,2025-12-22,Charlie,South,7262.18,90,Furniture,1701.02,798.18,New,0.09,UPI,Online
+1039,2025-12-23,Charlie,North,5122.2,28,Electronics,1813.11,606.94,Returning,0.09,Cash,Online
+1001,2025-12-24,Rami d,South,1828.86,96,Furniture,3022.1,5015.52,New,0.17,UPI,Retail
+1083,2025-12-25,Dani d,West,5980.41,66,Electronics,1443.64,1185.89,New,0.14,Cash,Online
+1064,2025-12-26,Rami d,East,6774.69,31,Furniture,230.38,2377.12,New,0.14,Bank Transfer,Online
+1062,2025-12-27,Bob,North,7334.13,3,Food,3702.62,2551.35,Returning,0.04,Cash,Retail
+1072,2025-12-28,Bob,South,4359.34,8,Furniture,3165.68,3354.71,Returning,0.22,Bank Transfer,Online
+1016,2025-12-29,Bob,South,6072.94,24,Food,2945.7,533.78,Returning,0.07,Bank Transfer,Retail
+1008,2025-12-30,Dani d,South,5056.18,15,Food,3734.25,1363.16,Returning,0.07,UPI,Online
+1074,2025-12-31,Charlie,West,7048.5,43,Furniture,3408.63,5133.47,New,0.13,UPI,Retail
+1014,2026-01-01,Dani d,West,6252.01,31,Food,1108.82,5009.99,New,0.08,Cash,Online
+1023,2026-01-02,Dani d,North,5731.81,73,Clothing,1827.16,4329.9,New,0.18,Credit Card,Retail
+1037,2026-01-03,Charlie,North,3245.72,45,Furniture,717.94,253.8,New,0.12,UPI,Retail
+1034,2026-01-04,Rami d,West,1018.17,66,Furniture,736.3,1899.49,Returning,0.14,UPI,Online
+1093,2026-01-05,Bob,North,2566.74,8,Food,3413.36,3509.58,New,0.17,Credit Card,Retail
+1094,2026-01-06,Rami d,East,2053.59,71,Food,4307.14,1622.27,Returning,0.07,Credit Card,Online
+1048,2026-01-07,Bob,East,5041.76,57,Furniture,4817.39,5016.29,New,0.06,UPI,Retail
+1068,2026-01-08,Dani d,West,6510.32,80,Clothing,3178.9,3541.31,New,0.27,Credit Card,Retail
+1061,2026-01-09,Bob,North,2917.77,99,Food,1002.1,534.7,New,0.14,Cash,Retail
+1059,2026-01-10,Dani d,South,9451.51,30,Food,617.69,5013.18,Returning,0.13,Bank Transfer,Retail
+1049,2026-01-11,Rami d,East,1060.14,74,Electronics,4082.97,5274.05,Returning,0.02,Bank Transfer,Retail
+1077,2026-01-12,Dani d,West,7950.71,18,Clothing,2935.91,565.76,New,0.15,UPI,Retail
+1074,2026-01-13,Rami d,North,6626.84,69,Clothing,3129.6,2998.13,New,0.17,UPI,Retail
+1008,2026-01-14,Charlie,West,4361.99,93,Furniture,3929.16,1773.0,New,0.17,Cash,Online
+1033,2026-01-15,Charlie,South,1454.4,39,Clothing,3546.06,2251.69,Returning,0.22,Credit Card,Online
+1075,2026-01-16,Charlie,East,6647.38,60,Furniture,4188.85,1111.13,Returning,0.06,UPI,Retail
+1098,2026-01-17,Dani d,West,4470.52,98,Electronics,375.45,3242.69,Returning,0.08,Bank Transfer,Retail
+1034,2026-01-18,Charlie,West,9426.4,43,Clothing,3762.85,5275.19,New,0.25,Cash,Retail
+1000,2026-01-19,Bob,West,5877.91,45,Food,4269.18,2841.44,Returning,0.28,Cash,Online
+1039,2026-01-20,Rami d,South,9456.86,23,Electronics,1502.06,593.59,New,0.05,Credit Card,Retail
+1063,2026-01-21,Rami d,West,2984.35,69,Furniture,3238.19,3467.01,Returning,0.15,UPI,Online
+1021,2026-01-22,Bob,South,7531.53,94,Electronics,1639.39,1970.19,New,0.07,UPI,Retail
+1059,2026-01-23,Dani d,South,6555.24,6,Furniture,4794.06,4729.2,New,0.03,Cash,Retail
+1063,2026-01-24,Dani d,South,7654.67,56,Electronics,263.78,2475.53,Returning,0.1,Bank Transfer,Retail
+1092,2026-01-25,Rami d,East,2932.01,4,Furniture,2940.98,1181.69,New,0.05,UPI,Retail
+1071,2026-01-26,Charlie,East,6984.95,93,Clothing,915.87,1172.42,New,0.22,Bank Transfer,Retail
+1010,2026-01-27,Dani d,West,5482.36,23,Food,3589.88,4262.89,New,0.16,Cash,Online
+1013,2026-01-28,Dani d,West,7685.42,6,Furniture,961.86,1570.89,Returning,0.05,UPI,Retail
+1059,2026-01-29,Bob,East,3943.4,32,Electronics,1253.38,4254.7,New,0.01,Bank Transfer,Online
+1029,2026-01-30,Bob,North,9010.51,18,Furniture,2522.42,1251.5,Returning,0.24,Cash,Online
+1034,2026-01-31,Charlie,East,1758.71,15,Furniture,4582.69,1871.02,Returning,0.06,Bank Transfer,Retail
+1084,2026-02-01,Dani d,South,8264.7,40,Furniture,1137.4,2640.36,New,0.19,UPI,Retail
+1036,2026-02-02,Dani d,East,8751.88,96,Electronics,806.78,5196.1,Returning,0.11,Credit Card,Retail
+1004,2026-02-03,Bob,South,8355.27,73,Food,3818.99,5134.76,New,0.18,Bank Transfer,Online
+1082,2026-02-04,Dani d,West,5614.54,74,Clothing,2553.04,1256.76,Returning,0.1,Credit Card,Online
+1077,2026-02-05,Rami d,North,4945.46,84,Food,4567.75,2066.47,New,0.04,UPI,Online
+1025,2026-02-06,Bob,West,9966.36,6,Furniture,818.41,949.29,Returning,0.07,Credit Card,Retail
+1061,2026-02-07,Charlie,South,3062.55,63,Electronics,3265.05,2878.42,New,0.06,Cash,Online
+1003,2026-02-08,Bob,South,5921.88,67,Food,1241.11,2614.12,New,0.13,Credit Card,Online
+1088,2026-02-09,Dani d,South,7036.08,11,Furniture,868.13,4969.07,New,0.2,Bank Transfer,Online
+1041,2026-02-10,Charlie,North,7307.81,43,Clothing,3448.8,5125.53,New,0.09,Bank Transfer,Retail
+1088,2026-02-11,Bob,East,2836.22,17,Clothing,3009.05,2202.09,Returning,0.01,Credit Card,Online
+1017,2026-02-12,Rami d,West,6885.95,96,Clothing,3798.65,2780.8,Returning,0.16,Cash,Online
+1039,2026-02-13,Rami d,West,8365.33,4,Furniture,1616.37,4944.86,New,0.19,UPI,Retail
+1071,2026-02-14,Bob,East,1450.17,63,Electronics,2295.06,4465.89,Returning,0.29,Credit Card,Retail
+1038,2026-02-15,Rami d,West,9203.69,68,Food,2086.81,169.56,New,0.18,Bank Transfer,Retail
+1013,2026-02-16,Rami d,North,1265.54,81,Clothing,4922.04,1862.32,New,0.15,Bank Transfer,Online
+1031,2026-02-17,Rami d,West,4203.74,41,Furniture,1532.02,2406.49,Returning,0.18,Credit Card,Online
+1050,2026-02-18,Charlie,South,1142.32,83,Furniture,1544.6,1378.98,Returning,0.28,Credit Card,Online
+1037,2026-02-19,Rami d,East,1694.31,5,Food,1837.29,1217.71,New,0.25,Credit Card,Retail
+1096,2026-02-20,Rami d,North,9200.51,32,Clothing,2866.51,352.15,Returning,0.1,UPI,Online
+1022,2026-02-21,Rami d,East,4193.75,86,Furniture,1336.38,3592.03,New,0.08,Bank Transfer,Retail
+1062,2026-02-22,Charlie,North,4822.94,70,Food,4584.92,1554.43,Returning,0.09,Bank Transfer,Retail
+1014,2026-02-23,Bob,South,2938.1,35,Electronics,1401.86,430.06,Returning,0.16,Bank Transfer,Online
+1096,2026-02-24,Dani d,East,6373.86,22,Electronics,4489.5,1385.74,Returning,0.23,UPI,Online
+1024,2026-02-25,Rami d,West,6353.23,65,Electronics,607.03,4440.24,Returning,0.16,Cash,Online
+1016,2026-02-26,Bob,North,4349.8,84,Clothing,3317.16,4705.47,Returning,0.03,Bank Transfer,Retail
+1096,2026-02-27,Rami d,East,3997.31,22,Food,4544.23,2734.4,New,0.22,Bank Transfer,Retail
+1065,2026-02-28,Charlie,West,8964.68,11,Food,926.87,2375.98,Returning,0.24,Cash,Online
+1077,2026-03-01,Bob,East,4449.56,77,Furniture,4844.8,5381.52,Returning,0.09,UPI,Retail
+1052,2026-03-02,Charlie,East,5441.51,3,Furniture,2319.13,1223.02,New,0.2,Cash,Online
+1050,2026-03-03,Rami d,East,3549.74,9,Furniture,4734.0,1302.17,New,0.13,Cash,Online
+1038,2026-03-04,Rami d,North,8080.93,60,Food,3416.42,1711.49,New,0.27,Cash,Online
+1050,2026-03-05,Charlie,West,4577.03,76,Furniture,1577.78,1074.25,Returning,0.26,Cash,Retail
+1069,2026-03-06,Dani d,South,5622.5,87,Food,1022.68,2179.61,Returning,0.16,UPI,Retail
+1005,2026-03-07,Charlie,North,3280.21,14,Food,1588.3,5022.96,New,0.21,UPI,Online
+1066,2026-03-08,Rami d,North,9888.94,97,Electronics,555.79,3442.11,New,0.27,Cash,Online
+1006,2026-03-09,Charlie,North,3623.46,18,Furniture,804.95,2353.91,New,0.15,Credit Card,Retail
+1050,2026-03-10,Dani d,South,7936.68,73,Electronics,612.84,5149.1,New,0.1,Credit Card,Online
+1071,2026-03-11,Charlie,West,4847.46,23,Clothing,2172.42,409.28,Returning,0.23,Credit Card,Retail
+1041,2026-03-12,Dani d,West,2855.96,74,Clothing,3998.33,1274.98,Returning,0.07,Credit Card,Online
+1063,2026-03-13,Dani d,West,8197.47,83,Clothing,792.78,3177.5,Returning,0.12,Bank Transfer,Retail
+1014,2026-03-14,Charlie,East,4002.46,47,Food,738.57,3443.21,Returning,0.26,UPI,Online
+1028,2026-03-15,Charlie,East,8786.74,69,Food,3252.8,361.63,Returning,0.22,UPI,Retail
+1032,2026-03-16,Bob,East,9237.31,47,Food,1066.2,2306.26,New,0.13,Cash,Online
+1093,2026-03-17,Rami d,South,8738.41,87,Furniture,578.29,3622.97,Returning,0.07,Bank Transfer,Retail
+1026,2026-03-18,Dani d,East,1315.07,30,Electronics,917.56,3884.68,New,0.11,Cash,Retail
+1035,2026-03-19,Bob,South,8086.36,25,Food,4626.28,3564.05,New,0.09,Cash,Retail
+1028,2026-03-20,Charlie,West,4702.06,28,Electronics,4125.21,1865.01,New,0.06,UPI,Retail
+1037,2026-03-21,Rami d,East,8863.51,98,Electronics,1834.92,650.33,Returning,0.23,Bank Transfer,Online
+1056,2026-03-22,Bob,East,6741.59,25,Electronics,3313.52,2435.05,New,0.08,Credit Card,Retail
+1096,2026-03-23,Dani d,North,8502.79,74,Furniture,2732.65,838.84,Returning,0.14,UPI,Retail
+1026,2026-03-24,Bob,South,5494.89,78,Furniture,3417.91,5219.79,New,0.12,Bank Transfer,Online
+1054,2026-03-25,Dani d,West,5815.23,58,Clothing,3445.09,2692.16,Returning,0.29,Bank Transfer,Retail
+1032,2026-03-26,Charlie,North,2299.49,94,Clothing,3180.8,1847.34,New,0.12,UPI,Online
+1067,2026-03-27,Rami d,North,8055.89,41,Electronics,1403.9,4249.73,Returning,0.03,UPI,Retail
+1085,2026-03-28,Rami d,West,4774.51,25,Clothing,291.13,2814.02,New,0.04,Cash,Retail
+1065,2026-03-29,Rami d,North,5500.72,78,Electronics,2332.28,1808.68,New,0.18,Cash,Retail
+1009,2026-03-30,Charlie,South,8065.88,99,Furniture,4465.77,4494.03,New,0.18,Cash,Retail
+1004,2026-03-31,Dani d,South,6389.61,48,Furniture,2890.54,4789.26,New,0.13,Credit Card,Retail
+1073,2026-04-01,Charlie,East,2809.89,98,Furniture,4178.72,3750.59,Returning,0.14,UPI,Retail
+1096,2026-04-02,Rami d,North,6312.09,10,Food,4958.96,401.26,Returning,0.03,Bank Transfer,Online
+1037,2026-04-03,Charlie,East,4668.7,99,Electronics,901.72,3179.83,Returning,0.16,UPI,Online
+1012,2026-04-04,Charlie,North,5225.73,75,Furniture,3489.71,4233.63,New,0.16,Bank Transfer,Retail
+1030,2026-04-05,Charlie,South,1254.8,11,Electronics,3404.04,880.29,New,0.05,Credit Card,Retail
+1046,2026-04-06,Dani d,South,2890.26,85,Clothing,4901.78,1373.39,New,0.04,UPI,Online
+1099,2026-04-07,Bob,South,3529.34,21,Clothing,4929.44,4871.35,New,0.05,Bank Transfer,Online
+1087,2026-04-08,Bob,North,7416.64,86,Furniture,3464.73,257.65,New,0.04,Bank Transfer,Retail
+1051,2026-04-09,Charlie,South,1103.43,45,Electronics,1293.71,4177.09,New,0.19,Cash,Retail
+1055,2026-04-10,Bob,North,4679.0,7,Furniture,4012.92,2684.69,Returning,0.07,Credit Card,Retail
+1014,2026-04-11,Bob,East,9316.24,81,Clothing,624.44,2540.23,Returning,0.08,UPI,Retail
+1028,2026-04-12,Charlie,North,2006.93,64,Furniture,3925.43,187.97,Returning,0.06,Cash,Retail
+1007,2026-04-13,Charlie,East,5647.82,64,Electronics,4559.96,4533.78,Returning,0.29,Credit Card,Retail
+1004,2026-04-14,Rami d,North,8078.7,2,Clothing,1975.88,2075.06,Returning,0.26,Cash,Online
